@@ -1,0 +1,1099 @@
+fish_species,cover,area,weight_in_lbs,depth,day_number,id
+micropterus_salmoides,Boat Docks,Lower Section Main Lake,2.375,0-5,Day1,1
+micropterus_salmoides,Natural Rock,Bays/Pockets,2.4375,0-5,Day1,2
+micropterus_salmoides,Rip Rap,Lower Section Main Lake,4.375,0-5,Day1,3
+micropterus_salmoides,Natural Rock,Bays/Pockets,2.1875,0-5,Day1,4
+micropterus_salmoides,Rip Rap,Bays/Pockets,3.875,0-5,Day1,5
+micropterus_salmoides,Natural Rock,Bays/Pockets,2.0625,0-5,Day1,6
+micropterus_salmoides,Natural Rock,Mid Section Main Lake,2.0,5-10,Day1,7
+micropterus_salmoides,Boat Docks,Creeks,4.375,0-5,Day1,8
+micropterus_salmoides,Boat Docks,Bays/Pockets,2.9375,5-10,Day1,9
+micropterus_salmoides,Natural Rock,Mid Section Main Lake,2.125,5-10,Day1,10
+micropterus_salmoides,Natural Rock,Bays/Pockets,3.625,0-5,Day1,11
+micropterus_salmoides,Boat Docks,Bays/Pockets,2.9375,5-10,Day1,12
+micropterus_salmoides,Boat Docks,Bays/Pockets,4.0,0-5,Day1,13
+micropterus_salmoides,Natural Rock,Bays/Pockets,2.625,0-5,Day1,14
+micropterus_salmoides,Natural Rock,Bays/Pockets,3.1875,0-5,Day1,15
+micropterus_salmoides,Rip Rap,Lower Section Main Lake,2.0625,0-5,Day1,16
+micropterus_salmoides,Boat Docks,Bays/Pockets,2.0,5-10,Day1,17
+micropterus_salmoides,Natural Rock,Bays/Pockets,2.0625,0-5,Day1,18
+micropterus_salmoides,Boat Docks,Lower Section Main Lake,2.625,0-5,Day1,19
+micropterus_salmoides,Natural Rock,Lower Section Main Lake,2.0625,0-5,Day1,20
+micropterus_salmoides,Boat Docks,Bays/Pockets,2.125,0-5,Day1,21
+micropterus_salmoides,Boat Docks,Bays/Pockets,2.6875,0-5,Day1,22
+micropterus_salmoides,Natural Rock,Bays/Pockets,2.5,0-5,Day1,23
+micropterus_salmoides,Natural Rock,Creeks,2.0,0-5,Day1,24
+micropterus_salmoides,Natural Rock,Bays/Pockets,4.125,0-5,Day1,25
+micropterus_salmoides,Natural Rock,Lower Section Main Lake,3.5,0-5,Day1,26
+micropterus_salmoides,Boat Docks,Bays/Pockets,2.0,0-5,Day1,27
+micropterus_salmoides,Natural Rock,Creeks,2.625,0-5,Day1,28
+micropterus_salmoides,Natural Rock,Bays/Pockets,2.1875,0-5,Day1,29
+micropterus_salmoides,Boat Docks,Mid Section Main Lake,2.9375,5-10,Day1,30
+micropterus_salmoides,Natural Rock,Creeks,2.1875,0-5,Day1,31
+micropterus_salmoides,Natural Rock,Bays/Pockets,2.9375,5-10,Day1,32
+micropterus_salmoides,Natural Rock,Bays/Pockets,5.375,0-5,Day1,33
+micropterus_salmoides,Boat Docks,Lower Section Main Lake,3.0,0-5,Day1,34
+micropterus_salmoides,Boat Docks,Bays/Pockets,3.75,0-5,Day1,35
+micropterus_salmoides,Natural Rock,Mid Section Main Lake,2.6875,5-10,Day1,36
+micropterus_salmoides,Natural Rock,Bays/Pockets,3.125,0-5,Day1,37
+micropterus_salmoides,Natural Rock,Bays/Pockets,2.625,5-10,Day1,38
+micropterus_salmoides,Boat Docks,Creeks,2.0625,0-5,Day1,39
+micropterus_salmoides,Rip Rap,Bays/Pockets,2.0625,0-5,Day1,40
+micropterus_salmoides,Boat Docks,Bays/Pockets,2.0625,15-20,Day1,41
+micropterus_salmoides,Boat Docks,Lower Section Main Lake,2.125,5-10,Day1,42
+micropterus_salmoides,Boat Docks,Bays/Pockets,2.8125,10-15,Day1,43
+micropterus_salmoides,Boat Docks,Bays/Pockets,3.375,5-10,Day1,44
+micropterus_salmoides,Natural Rock,Lower Section Main Lake,3.5,0-5,Day1,45
+micropterus_salmoides,Boat Docks,Lower Section Main Lake,2.5,0-5,Day1,46
+micropterus_salmoides,Natural Rock,Bays/Pockets,4.3125,0-5,Day1,47
+micropterus_salmoides,Natural Rock,Mid Section Main Lake,2.1875,0-5,Day1,48
+micropterus_salmoides,Lay Downs,Creeks,2.25,0-5,Day1,49
+micropterus_salmoides,Natural Rock,Bays/Pockets,2.125,0-5,Day1,50
+micropterus_salmoides,Boat Docks,Mid Section Main Lake,2.1875,5-10,Day1,51
+micropterus_salmoides,Natural Rock,Creeks,2.75,0-5,Day1,52
+micropterus_salmoides,Boat Docks,Bays/Pockets,4.375,10-15,Day1,53
+micropterus_salmoides,Natural Rock,Bays/Pockets,4.1875,0-5,Day1,54
+micropterus_salmoides,Rip Rap,Bays/Pockets,3.25,0-5,Day1,55
+micropterus_salmoides,Natural Rock,River,2.0625,0-5,Day1,56
+micropterus_salmoides,Point,Lower Section Main Lake,2.0,0-5,Day1,57
+micropterus_salmoides,Boat Docks,Lower Section Main Lake,2.25,0-5,Day1,58
+micropterus_salmoides,Rip Rap,Bays/Pockets,2.0,0-5,Day1,59
+micropterus_salmoides,Natural Rock,Creeks,2.9375,0-5,Day1,60
+micropterus_salmoides,Natural Rock,Mid Section Main Lake,4.6875,5-10,Day1,61
+micropterus_salmoides,Natural Rock,Bays/Pockets,3.5,0-5,Day1,62
+micropterus_salmoides,Boat Docks,Bays/Pockets,2.0,0-5,Day1,63
+micropterus_salmoides,Natural Rock,Bays/Pockets,2.0625,0-5,Day1,64
+micropterus_salmoides,Natural Rock,Mid Section Main Lake,4.0625,0-5,Day1,65
+micropterus_salmoides,Natural Rock,Bays/Pockets,3.625,0-5,Day1,66
+micropterus_salmoides,Natural Rock,Lower Section Main Lake,2.875,0-5,Day1,67
+micropterus_salmoides,Natural Rock,Mid Section Main Lake,3.3125,5-10,Day1,68
+micropterus_salmoides,Natural Rock,Bays/Pockets,2.4375,5-10,Day1,69
+micropterus_salmoides,Marinas,Mid Section Main Lake,2.1875,0-5,Day1,70
+micropterus_salmoides,Boat Docks,Bays/Pockets,2.1875,5-10,Day1,71
+micropterus_salmoides,Natural Rock,Bays/Pockets,3.1875,0-5,Day1,72
+micropterus_salmoides,Lay Downs,Mid Section Main Lake,3.0625,0-5,Day1,73
+micropterus_salmoides,Boat Docks,Lower Section Main Lake,3.0,0-5,Day1,74
+micropterus_salmoides,Lay Downs,Creeks,2.1875,0-5,Day1,75
+micropterus_salmoides,Natural Rock,Mid Section Main Lake,3.125,5-10,Day1,76
+micropterus_salmoides,Lay Downs,Creeks,2.375,0-5,Day1,77
+micropterus_salmoides,Natural Rock,Mid Section Main Lake,3.625,0-5,Day1,78
+micropterus_punctulatus,Natural Rock,Creeks,2.1875,0-5,Day1,79
+micropterus_salmoides,Natural Rock,River,3.1875,0-5,Day1,80
+micropterus_salmoides,Natural Rock,Bays/Pockets,2.1875,0-5,Day1,81
+micropterus_salmoides,Boat Docks,Lower Section Main Lake,2.5625,0-5,Day1,82
+micropterus_salmoides,Boat Docks,Bays/Pockets,2.125,0-5,Day1,83
+micropterus_salmoides,Natural Rock,Mid Section Main Lake,5.6875,5-10,Day1,84
+micropterus_salmoides,Rip Rap,Creeks,4.125,0-5,Day1,85
+micropterus_salmoides,Natural Rock,Bays/Pockets,2.8125,0-5,Day1,86
+micropterus_salmoides,Rip Rap,Bays/Pockets,2.8125,5-10,Day1,87
+micropterus_salmoides,Natural Rock,Bays/Pockets,2.5,0-5,Day1,88
+micropterus_salmoides,Lay Downs,Bays/Pockets,6.875,0-5,Day1,89
+micropterus_salmoides,Natural Rock,Bays/Pockets,5.4375,0-5,Day1,90
+micropterus_salmoides,Natural Rock,Bays/Pockets,2.75,0-5,Day1,91
+micropterus_salmoides,Natural Rock,Creeks,2.125,0-5,Day1,92
+micropterus_salmoides,Boat Docks,Bays/Pockets,6.75,20+,Day1,93
+micropterus_punctulatus,Natural Rock,Creeks,2.0625,0-5,Day1,94
+micropterus_salmoides,Natural Rock,Mid Section Main Lake,2.4375,5-10,Day1,95
+micropterus_salmoides,Boat Docks,Bays/Pockets,2.0625,5-10,Day1,96
+micropterus_salmoides,Natural Rock,Bays/Pockets,4.125,0-5,Day1,97
+micropterus_salmoides,Natural Rock,Bays/Pockets,2.5,0-5,Day1,98
+micropterus_salmoides,Boat Docks,Mid Section Main Lake,2.0,5-10,Day1,99
+micropterus_salmoides,Boat Docks,Lower Section Main Lake,3.75,0-5,Day1,100
+micropterus_salmoides,Lay Downs,Creeks,2.5625,0-5,Day1,101
+micropterus_salmoides,Boat Docks,Bays/Pockets,2.3125,0-5,Day1,102
+micropterus_punctulatus,Natural Rock,Lower Section Main Lake,2.375,0-5,Day1,103
+micropterus_salmoides,Natural Rock,River,3.9375,0-5,Day1,104
+micropterus_salmoides,Natural Rock,Creeks,2.75,0-5,Day1,105
+micropterus_salmoides,Natural Rock,Mid Section Main Lake,2.0625,0-5,Day1,106
+micropterus_salmoides,Boat Docks,Bays/Pockets,3.125,5-10,Day1,107
+micropterus_salmoides,Lay Downs,Bays/Pockets,2.6875,0-5,Day1,108
+micropterus_salmoides,Natural Rock,Bays/Pockets,4.25,0-5,Day1,109
+micropterus_salmoides,Natural Rock,Creeks,2.1875,0-5,Day1,110
+micropterus_salmoides,Natural Rock,Bays/Pockets,3.0,5-10,Day1,111
+micropterus_salmoides,Natural Rock,Bays/Pockets,2.0,0-5,Day1,112
+micropterus_salmoides,Boat Docks,Lower Section Main Lake,2.125,5-10,Day1,113
+micropterus_salmoides,Boat Docks,Bays/Pockets,2.125,0-5,Day1,114
+micropterus_salmoides,Boat Docks,Lower Section Main Lake,3.625,5-10,Day1,115
+micropterus_salmoides,Boat Docks,Lower Section Main Lake,3.5,0-5,Day1,116
+micropterus_salmoides,Natural Rock,Bays/Pockets,2.625,0-5,Day1,117
+micropterus_salmoides,Natural Rock,Creeks,3.6875,0-5,Day1,118
+micropterus_salmoides,Rip Rap,Bays/Pockets,2.0625,5-10,Day1,119
+micropterus_salmoides,Natural Rock,Mid Section Main Lake,2.0625,0-5,Day1,120
+micropterus_salmoides,Natural Rock,Bays/Pockets,2.0,0-5,Day1,121
+micropterus_salmoides,Boat Docks,Bays/Pockets,4.375,0-5,Day1,122
+micropterus_salmoides,Natural Rock,Mid Section Main Lake,2.125,5-10,Day1,123
+micropterus_salmoides,Boat Docks,Bays/Pockets,2.6875,0-5,Day1,124
+micropterus_salmoides,Boat Docks,Bays/Pockets,2.25,0-5,Day1,125
+micropterus_salmoides,Boat Docks,Mid Section Main Lake,2.125,0-5,Day1,126
+micropterus_salmoides,Boat Docks,Mid Section Main Lake,2.0,0-5,Day1,127
+micropterus_salmoides,Natural Rock,Mid Section Main Lake,2.6875,5-10,Day1,128
+micropterus_punctulatus,Natural Rock,Creeks,2.375,0-5,Day1,129
+micropterus_salmoides,Natural Rock,River,6.0,0-5,Day1,130
+micropterus_salmoides,Natural Rock,Bays/Pockets,3.75,0-5,Day1,131
+micropterus_salmoides,Boat Docks,Bays/Pockets,3.6875,0-5,Day1,132
+micropterus_salmoides,Natural Rock,Bays/Pockets,3.8125,0-5,Day1,133
+micropterus_salmoides,Rip Rap,Creeks,2.625,0-5,Day1,134
+micropterus_salmoides,Boat Docks,Mid Section Main Lake,3.875,0-5,Day1,135
+micropterus_salmoides,Lay Downs,Bays/Pockets,2.625,0-5,Day1,136
+micropterus_punctulatus,Boat Docks,Creeks,3.0,0-5,Day1,137
+micropterus_salmoides,Boat Docks,Creeks,2.5625,5-10,Day1,138
+micropterus_salmoides,Boat Docks,Bays/Pockets,4.625,0-5,Day1,139
+micropterus_salmoides,Natural Rock,Bays/Pockets,2.125,5-10,Day1,140
+micropterus_salmoides,Boat Docks,Mid Section Main Lake,3.8125,0-5,Day1,141
+micropterus_salmoides,Marinas,Mid Section Main Lake,2.0625,0-5,Day1,142
+micropterus_punctulatus,Boat Docks,Creeks,2.3125,0-5,Day1,143
+micropterus_salmoides,Boat Docks,Creeks,4.9375,5-10,Day1,144
+micropterus_salmoides,Boat Docks,Bays/Pockets,2.125,0-5,Day1,145
+micropterus_salmoides,Boat Docks,Creeks,2.125,0-5,Day1,146
+micropterus_salmoides,Boat Docks,Bays/Pockets,6.25,15-20,Day1,147
+micropterus_salmoides,Natural Rock,Creeks,2.25,0-5,Day1,148
+micropterus_salmoides,Natural Rock,Bays/Pockets,2.0,0-5,Day1,149
+micropterus_salmoides,Natural Rock,Creeks,2.25,0-5,Day1,150
+micropterus_salmoides,Boat Docks,Bays/Pockets,2.625,0-5,Day1,151
+micropterus_salmoides,Boat Docks,Creeks,3.5,5-10,Day1,152
+micropterus_punctulatus,Boat Docks,Creeks,2.0,0-5,Day1,153
+micropterus_salmoides,Boat Docks,Creeks,3.5625,0-5,Day1,154
+micropterus_salmoides,Natural Rock,River,2.5,0-5,Day1,155
+micropterus_salmoides,Natural Rock,Lower Section Main Lake,2.5625,0-5,Day1,156
+micropterus_salmoides,Natural Rock,Bays/Pockets,4.3125,0-5,Day1,157
+micropterus_salmoides,Natural Rock,Bays/Pockets,4.25,0-5,Day1,158
+micropterus_salmoides,Lay Downs,Mid Section Main Lake,2.25,0-5,Day1,159
+micropterus_salmoides,Boat Docks,Mid Section Main Lake,2.75,5-10,Day1,160
+micropterus_punctulatus,Boat Docks,Lower Section Main Lake,2.125,0-5,Day1,161
+micropterus_salmoides,Boat Docks,Creeks,2.5625,0-5,Day1,162
+micropterus_salmoides,Boat Docks,Creeks,2.125,0-5,Day1,163
+micropterus_salmoides,Natural Rock,Bays/Pockets,3.6875,0-5,Day1,164
+micropterus_salmoides,Boat Docks,Bays/Pockets,2.8125,0-5,Day1,165
+micropterus_salmoides,Natural Rock,Creeks,2.875,0-5,Day1,166
+micropterus_salmoides,Natural Rock,Bays/Pockets,4.5625,0-5,Day1,167
+micropterus_salmoides,Boat Docks,Creeks,4.5,5-10,Day1,168
+micropterus_salmoides,Natural Rock,Lower Section Main Lake,3.5,0-5,Day1,169
+micropterus_salmoides,Boat Docks,Creeks,4.8125,0-5,Day1,170
+micropterus_salmoides,Natural Rock,Bays/Pockets,2.125,0-5,Day1,171
+micropterus_salmoides,Boat Docks,Bays/Pockets,2.1875,0-5,Day1,172
+micropterus_salmoides,Boat Docks,Bays/Pockets,2.5,0-5,Day1,173
+micropterus_salmoides,Natural Rock,Bays/Pockets,4.3125,0-5,Day1,174
+micropterus_punctulatus,Boat Docks,Lower Section Main Lake,2.0,0-5,Day1,175
+micropterus_salmoides,Boat Docks,Creeks,2.625,0-5,Day1,176
+micropterus_salmoides,Natural Rock,Creeks,2.125,0-5,Day1,177
+micropterus_salmoides,Natural Rock,Bays/Pockets,2.0625,0-5,Day1,178
+micropterus_salmoides,Natural Rock,Bays/Pockets,2.1875,0-5,Day1,179
+micropterus_salmoides,Natural Rock,Bays/Pockets,2.375,0-5,Day1,180
+micropterus_salmoides,Boat Docks,Bays/Pockets,4.0,0-5,Day1,181
+micropterus_salmoides,Natural Rock,River,6.3125,0-5,Day1,182
+micropterus_salmoides,Rip Rap,Mid Section Main Lake,2.125,5-10,Day1,183
+micropterus_salmoides,Boat Docks,Bays/Pockets,2.0625,0-5,Day1,184
+micropterus_salmoides,Boat Docks,Mid Section Main Lake,2.125,5-10,Day1,185
+micropterus_salmoides,Boat Docks,Bays/Pockets,2.0,5-10,Day1,186
+micropterus_salmoides,Boat Docks,Creeks,2.3125,0-5,Day1,187
+micropterus_salmoides,Natural Rock,Bays/Pockets,3.375,0-5,Day1,188
+micropterus_salmoides,Natural Rock,Bays/Pockets,3.875,0-5,Day1,189
+micropterus_salmoides,Boat Docks,Creeks,3.6875,5-10,Day1,190
+micropterus_salmoides,Natural Rock,Mid Section Main Lake,2.125,0-5,Day1,191
+micropterus_salmoides,Boat Docks,Bays/Pockets,3.125,0-5,Day1,192
+micropterus_salmoides,Boat Docks,Mid Section Main Lake,2.875,5-10,Day1,193
+micropterus_salmoides,Rip Rap,Creeks,2.25,0-5,Day1,194
+micropterus_salmoides,Point,Bays/Pockets,2.25,10-15,Day1,195
+micropterus_salmoides,Rip Rap,Mid Section Main Lake,5.1875,5-10,Day1,196
+micropterus_salmoides,Natural Rock,Bays/Pockets,2.5,0-5,Day1,197
+micropterus_salmoides,Boat Docks,Creeks,2.0625,0-5,Day1,198
+micropterus_salmoides,Lay Downs,Bays/Pockets,2.6875,0-5,Day1,199
+micropterus_salmoides,Lay Downs,River,2.1875,0-5,Day1,200
+micropterus_salmoides,Brush Pile,Mid Section Main Lake,2.625,5-10,Day1,201
+micropterus_salmoides,Natural Rock,Creeks,2.25,0-5,Day1,202
+micropterus_salmoides,Natural Rock,Bays/Pockets,2.375,0-5,Day1,203
+micropterus_salmoides,Natural Rock,Creeks,4.5,0-5,Day1,204
+micropterus_salmoides,Natural Rock,Bays/Pockets,3.0625,0-5,Day1,205
+micropterus_salmoides,Boat Docks,Bays/Pockets,2.9375,0-5,Day1,206
+micropterus_salmoides,Lay Downs,Bays/Pockets,4.625,0-5,Day1,207
+micropterus_salmoides,Boat Docks,Creeks,3.5625,5-10,Day1,208
+micropterus_salmoides,Natural Rock,Bays/Pockets,4.3125,0-5,Day1,209
+micropterus_salmoides,Boat Docks,Mid Section Main Lake,2.0,0-5,Day1,210
+micropterus_salmoides,Boat Docks,Creeks,2.6875,0-5,Day1,211
+micropterus_salmoides,Natural Rock,Creeks,2.0625,0-5,Day1,212
+micropterus_salmoides,Natural Rock,Bays/Pockets,3.0,0-5,Day1,213
+micropterus_salmoides,Natural Rock,Bays/Pockets,4.25,0-5,Day1,214
+micropterus_salmoides,Boat Docks,Bays/Pockets,2.125,0-5,Day1,215
+micropterus_salmoides,Boat Docks,Creeks,4.25,0-5,Day1,216
+micropterus_salmoides,Boat Docks,Mid Section Main Lake,3.125,5-10,Day1,217
+micropterus_salmoides,Boat Docks,Lower Section Main Lake,2.5,0-5,Day1,218
+micropterus_salmoides,Boat Docks,Creeks,2.1875,15-20,Day1,219
+micropterus_salmoides,Boat Docks,Bays/Pockets,4.1875,0-5,Day1,220
+micropterus_salmoides,Natural Rock,Bays/Pockets,3.9375,5-10,Day2,221
+micropterus_salmoides,Boat Docks,Bays/Pockets,4.4375,0-5,Day2,222
+micropterus_salmoides,Natural Rock,Bays/Pockets,3.0,0-5,Day2,223
+micropterus_salmoides,Boat Docks,Upper Section Main Lake,3.875,0-5,Day2,224
+micropterus_salmoides,Boat Docks,Bays/Pockets,2.0,10-15,Day2,225
+micropterus_salmoides,Boat Docks,Bays/Pockets,2.125,0-5,Day2,226
+micropterus_salmoides,Not Available/Other,Bays/Pockets,2.0,0-5,Day2,227
+micropterus_salmoides,Natural Rock,Bays/Pockets,3.1875,0-5,Day2,228
+micropterus_salmoides,Natural Rock,Bays/Pockets,5.3125,0-5,Day2,229
+micropterus_salmoides,Rip Rap,Creeks,2.0,0-5,Day2,230
+micropterus_salmoides,Natural Rock,Bays/Pockets,4.6875,5-10,Day2,231
+micropterus_salmoides,Not Available/Other,Bays/Pockets,2.25,0-5,Day2,232
+micropterus_salmoides,Natural Rock,Bays/Pockets,3.1875,0-5,Day2,233
+micropterus_salmoides,Natural Rock,Creeks,2.0,0-5,Day2,234
+micropterus_salmoides,Boat Docks,Lower Section Main Lake,3.5,0-5,Day2,235
+micropterus_salmoides,Natural Rock,Bays/Pockets,3.75,0-5,Day2,236
+micropterus_salmoides,Natural Rock,Bays/Pockets,2.375,5-10,Day2,237
+micropterus_salmoides,Natural Rock,Bays/Pockets,4.125,0-5,Day2,238
+micropterus_salmoides,Natural Rock,Bays/Pockets,4.875,0-5,Day2,239
+micropterus_salmoides,Natural Rock,Bays/Pockets,3.3125,0-5,Day2,240
+micropterus_salmoides,Bluff Walls,Bays/Pockets,2.0625,0-5,Day2,241
+micropterus_salmoides,Natural Rock,Bays/Pockets,2.0,0-5,Day2,242
+micropterus_punctulatus,Boat Docks,Bays/Pockets,2.4375,5-10,Day2,243
+micropterus_salmoides,Natural Rock,Bays/Pockets,3.375,0-5,Day2,244
+micropterus_salmoides,Not Available/Other,Bays/Pockets,3.0,0-5,Day2,245
+micropterus_salmoides,Boat Docks,Bays/Pockets,4.75,0-5,Day2,246
+micropterus_salmoides,Boat Docks,Upper Section Main Lake,3.8125,0-5,Day2,247
+micropterus_salmoides,Natural Rock,Bays/Pockets,2.0,0-5,Day2,248
+micropterus_salmoides,Rip Rap,Mid Section Main Lake,2.1875,0-5,Day2,249
+micropterus_punctulatus,Natural Rock,Bays/Pockets,2.3125,0-5,Day2,250
+micropterus_salmoides,Boat Docks,Upper Section Main Lake,4.625,0-5,Day2,251
+micropterus_salmoides,Boat Docks,Bays/Pockets,2.625,0-5,Day2,252
+micropterus_salmoides,Natural Rock,Bays/Pockets,2.6875,0-5,Day2,253
+micropterus_salmoides,Natural Rock,Bays/Pockets,4.1875,0-5,Day2,254
+micropterus_salmoides,Bluff Walls,Bays/Pockets,2.1875,0-5,Day2,255
+micropterus_salmoides,Natural Rock,Bays/Pockets,2.6875,0-5,Day2,256
+micropterus_salmoides,Lay Downs,Mid Section Main Lake,2.125,0-5,Day2,257
+micropterus_salmoides,Natural Rock,Bays/Pockets,4.0625,0-5,Day2,258
+micropterus_salmoides,Boat Docks,Bays/Pockets,4.4375,0-5,Day2,259
+micropterus_salmoides,Boat Docks,Upper Section Main Lake,2.625,0-5,Day2,260
+micropterus_salmoides,Natural Rock,Bays/Pockets,2.125,0-5,Day2,261
+micropterus_salmoides,Stumps,Creeks,2.5,0-5,Day2,262
+micropterus_salmoides,Natural Rock,Bays/Pockets,3.375,0-5,Day2,263
+micropterus_salmoides,Natural Rock,Bays/Pockets,2.0,0-5,Day2,264
+micropterus_salmoides,Natural Rock,Bays/Pockets,2.8125,0-5,Day2,265
+micropterus_salmoides,Boat Docks,Upper Section Main Lake,2.4375,0-5,Day2,266
+micropterus_salmoides,Boat Docks,Bays/Pockets,2.0625,0-5,Day2,267
+micropterus_salmoides,Natural Rock,Creeks,2.875,0-5,Day2,268
+micropterus_salmoides,Boat Docks,Bays/Pockets,2.25,0-5,Day2,269
+micropterus_salmoides,Boat Docks,Bays/Pockets,2.8125,0-5,Day2,270
+micropterus_salmoides,Boat Docks,Bays/Pockets,2.0625,5-10,Day2,271
+micropterus_salmoides,Boat Docks,Bays/Pockets,2.625,0-5,Day2,272
+micropterus_salmoides,Natural Rock,Bays/Pockets,3.1875,0-5,Day2,273
+micropterus_salmoides,Not Available/Other,Bays/Pockets,2.0625,0-5,Day2,274
+micropterus_salmoides,Brush Pile,Bays/Pockets,2.375,0-5,Day2,275
+micropterus_salmoides,Natural Rock,Bays/Pockets,4.25,0-5,Day2,276
+micropterus_punctulatus,Natural Rock,Mid Section Main Lake,2.5625,0-5,Day2,277
+micropterus_salmoides,Rip Rap,Mid Section Main Lake,2.125,0-5,Day2,278
+micropterus_salmoides,Boat Docks,Mid Section Main Lake,3.1875,0-5,Day2,279
+micropterus_salmoides,Natural Rock,Bays/Pockets,2.4375,0-5,Day2,280
+micropterus_salmoides,Boat Docks,Bays/Pockets,2.375,0-5,Day2,281
+micropterus_salmoides,Natural Rock,Bays/Pockets,3.0,0-5,Day2,282
+micropterus_salmoides,Lay Downs,Mid Section Main Lake,3.75,0-5,Day2,283
+micropterus_salmoides,Bluff Walls,Bays/Pockets,2.0,0-5,Day2,284
+micropterus_salmoides,Point,Creeks,4.0,5-10,Day2,285
+micropterus_salmoides,Natural Rock,Bays/Pockets,3.4375,0-5,Day2,286
+micropterus_salmoides,Boat Docks,Bays/Pockets,2.625,5-10,Day2,287
+micropterus_salmoides,Natural Rock,Bays/Pockets,3.5625,0-5,Day2,288
+micropterus_salmoides,Boat Docks,Bays/Pockets,2.625,0-5,Day2,289
+micropterus_salmoides,Boat Docks,Upper Section Main Lake,3.375,0-5,Day2,290
+micropterus_salmoides,Not Available/Other,Bays/Pockets,2.125,0-5,Day2,291
+micropterus_salmoides,Natural Rock,Upper Section Main Lake,2.125,5-10,Day2,292
+micropterus_salmoides,Boat Docks,River,2.1875,5-10,Day2,293
+micropterus_salmoides,Natural Rock,Mid Section Main Lake,2.0625,0-5,Day2,294
+micropterus_salmoides,Buck Brush,Upper Section Main Lake,4.8125,0-5,Day2,295
+micropterus_salmoides,Natural Rock,Bays/Pockets,2.6875,0-5,Day2,296
+micropterus_salmoides,Offshore,Bays/Pockets,5.3125,0-5,Day2,297
+micropterus_salmoides,Boat Docks,Bays/Pockets,2.4375,0-5,Day2,298
+micropterus_salmoides,Boat Docks,Creeks,2.1875,0-5,Day2,299
+micropterus_salmoides,Natural Rock,Bays/Pockets,4.3125,0-5,Day2,300
+micropterus_salmoides,Natural Rock,Mid Section Main Lake,2.375,0-5,Day2,301
+micropterus_salmoides,Rip Rap,Mid Section Main Lake,4.375,5-10,Day2,302
+micropterus_salmoides,Natural Rock,Bays/Pockets,2.9375,0-5,Day2,303
+micropterus_salmoides,Natural Rock,Bays/Pockets,2.3125,0-5,Day2,304
+micropterus_salmoides,Boat Docks,Bays/Pockets,2.0,0-5,Day2,305
+micropterus_salmoides,Natural Rock,Bays/Pockets,3.375,0-5,Day2,306
+micropterus_salmoides,Buck Brush,Upper Section Main Lake,2.1875,0-5,Day2,307
+micropterus_salmoides,Natural Rock,Bays/Pockets,3.125,0-5,Day2,308
+micropterus_salmoides,Marinas,Mid Section Main Lake,2.875,0-5,Day2,309
+micropterus_salmoides,Boat Docks,Creeks,4.5625,0-5,Day2,310
+micropterus_salmoides,Boat Docks,Upper Section Main Lake,3.3125,0-5,Day2,311
+micropterus_salmoides,Rip Rap,Mid Section Main Lake,2.0625,0-5,Day2,312
+micropterus_salmoides,Natural Rock,Creeks,2.375,0-5,Day2,313
+micropterus_salmoides,Natural Rock,Bays/Pockets,2.1875,0-5,Day2,314
+micropterus_salmoides,Natural Rock,Bays/Pockets,2.25,0-5,Day2,315
+micropterus_salmoides,Rip Rap,Mid Section Main Lake,2.625,0-5,Day2,316
+micropterus_salmoides,Natural Rock,Bays/Pockets,4.0625,0-5,Day2,317
+micropterus_salmoides,Natural Rock,Bays/Pockets,3.5625,0-5,Day2,318
+micropterus_salmoides,Natural Rock,Bays/Pockets,2.875,0-5,Day2,319
+micropterus_salmoides,Natural Rock,Creeks,2.25,0-5,Day2,320
+micropterus_salmoides,Natural Rock,Bays/Pockets,4.0625,5-10,Day2,321
+micropterus_salmoides,Boat Docks,Bays/Pockets,2.125,0-5,Day2,322
+micropterus_salmoides,Point,Creeks,3.5,5-10,Day2,323
+micropterus_salmoides,Natural Rock,Bays/Pockets,2.3125,0-5,Day2,324
+micropterus_salmoides,Boat Docks,Bays/Pockets,2.4375,5-10,Day2,325
+micropterus_salmoides,Boat Docks,Creeks,2.5625,0-5,Day2,326
+micropterus_salmoides,Point,Creeks,2.0,5-10,Day2,327
+micropterus_salmoides,Natural Rock,Bays/Pockets,3.625,0-5,Day2,328
+micropterus_salmoides,Boat Docks,River,2.1875,5-10,Day2,329
+micropterus_salmoides,Natural Rock,Bays/Pockets,2.0625,0-5,Day2,330
+micropterus_salmoides,Boat Docks,Creeks,2.1875,0-5,Day2,331
+micropterus_salmoides,Boat Docks,Bays/Pockets,2.3125,0-5,Day2,332
+micropterus_salmoides,Rip Rap,Mid Section Main Lake,2.0,5-10,Day2,333
+micropterus_salmoides,Natural Rock,Bays/Pockets,2.0,0-5,Day2,334
+micropterus_salmoides,Boat Docks,Bays/Pockets,2.4375,0-5,Day2,335
+micropterus_salmoides,Boat Docks,Bays/Pockets,2.375,0-5,Day2,336
+micropterus_salmoides,Boat Docks,Mid Section Main Lake,3.125,0-5,Day2,337
+micropterus_salmoides,Natural Rock,Bays/Pockets,3.25,0-5,Day2,338
+micropterus_salmoides,Natural Rock,Bays/Pockets,3.1875,0-5,Day2,339
+micropterus_salmoides,Rip Rap,Mid Section Main Lake,4.5,5-10,Day2,340
+micropterus_salmoides,Bluff Walls,River,3.375,5-10,Day2,341
+micropterus_salmoides,Natural Rock,Bays/Pockets,2.375,0-5,Day2,342
+micropterus_salmoides,Rip Rap,Mid Section Main Lake,2.4375,5-10,Day2,343
+micropterus_salmoides,Natural Rock,Bays/Pockets,4.125,0-5,Day2,344
+micropterus_salmoides,Lay Downs,Bays/Pockets,2.4375,0-5,Day2,345
+micropterus_salmoides,Boat Docks,Bays/Pockets,4.6875,0-5,Day2,346
+micropterus_salmoides,Natural Rock,Bays/Pockets,4.1875,0-5,Day2,347
+micropterus_salmoides,Natural Rock,Bays/Pockets,4.0625,0-5,Day2,348
+micropterus_salmoides,Not Available/Other,Mid Section Main Lake,3.4375,0-5,Day2,349
+micropterus_salmoides,Natural Rock,Creeks,5.0625,0-5,Day2,350
+micropterus_salmoides,Marinas,Bays/Pockets,2.125,0-5,Day2,351
+micropterus_salmoides,Boat Docks,Bays/Pockets,2.0,10-15,Day2,352
+micropterus_salmoides,Boat Docks,Creeks,2.625,0-5,Day2,353
+micropterus_salmoides,Natural Rock,Bays/Pockets,2.25,0-5,Day2,354
+micropterus_salmoides,Natural Rock,Bays/Pockets,2.4375,0-5,Day2,355
+micropterus_salmoides,Boat Docks,Creeks,3.625,0-5,Day2,356
+micropterus_salmoides,Boat Docks,Bays/Pockets,2.3125,0-5,Day2,357
+micropterus_salmoides,Natural Rock,Bays/Pockets,2.4375,0-5,Day2,358
+micropterus_salmoides,Natural Rock,Mid Section Main Lake,5.8125,0-5,Day2,359
+micropterus_salmoides,Natural Rock,Bays/Pockets,2.5,0-5,Day2,360
+micropterus_salmoides,Boat Docks,Mid Section Main Lake,3.1875,0-5,Day2,361
+micropterus_salmoides,Boat Docks,Bays/Pockets,2.6875,0-5,Day2,362
+micropterus_salmoides,Boat Docks,Bays/Pockets,3.8125,5-10,Day2,363
+micropterus_salmoides,Boat Docks,Creeks,2.6875,0-5,Day2,364
+micropterus_salmoides,Natural Rock,Bays/Pockets,2.125,0-5,Day2,365
+micropterus_punctulatus,Natural Rock,Bays/Pockets,3.3125,0-5,Day2,366
+micropterus_salmoides,Boat Docks,River,2.375,5-10,Day2,367
+micropterus_salmoides,Marinas,Mid Section Main Lake,3.125,0-5,Day2,368
+micropterus_salmoides,Boat Docks,Mid Section Main Lake,3.0625,0-5,Day2,369
+micropterus_salmoides,Natural Rock,Bays/Pockets,3.0,0-5,Day2,370
+micropterus_salmoides,Boat Docks,Bays/Pockets,4.5,0-5,Day2,371
+micropterus_salmoides,Boat Docks,Bays/Pockets,2.125,0-5,Day2,372
+micropterus_salmoides,Boat Docks,Bays/Pockets,2.875,0-5,Day2,373
+micropterus_salmoides,Marinas,Mid Section Main Lake,4.25,0-5,Day2,374
+micropterus_salmoides,Boat Docks,Bays/Pockets,2.4375,0-5,Day2,375
+micropterus_salmoides,Rip Rap,Mid Section Main Lake,3.75,5-10,Day2,376
+micropterus_salmoides,Natural Rock,Creeks,2.875,0-5,Day2,377
+micropterus_salmoides,Boat Docks,Bays/Pockets,3.25,0-5,Day2,378
+micropterus_salmoides,Individual Boat Ramp,Creeks,2.3125,0-5,Day2,379
+micropterus_salmoides,Boat Docks,Bays/Pockets,4.0,0-5,Day2,380
+micropterus_salmoides,Point,Bays/Pockets,3.125,5-10,Day2,381
+micropterus_punctulatus,Natural Rock,Bays/Pockets,3.625,0-5,Day2,382
+micropterus_salmoides,Natural Rock,Bays/Pockets,2.375,0-5,Day2,383
+micropterus_salmoides,Boat Docks,Bays/Pockets,4.5625,5-10,Day2,384
+micropterus_salmoides,Boat Docks,River,2.5,5-10,Day2,385
+micropterus_salmoides,Natural Rock,Lower Section Main Lake,3.25,0-5,Day2,386
+micropterus_salmoides,Natural Rock,Lower Section Main Lake,2.4375,0-5,Day2,387
+micropterus_salmoides,Buck Brush,Upper Section Main Lake,5.25,0-5,Day2,388
+micropterus_salmoides,Boat Docks,Upper Section Main Lake,3.8125,0-5,Day2,389
+micropterus_salmoides,Boat Docks,Bays/Pockets,3.0,0-5,Day2,390
+micropterus_salmoides,Natural Rock,Bays/Pockets,2.0,0-5,Day2,391
+micropterus_salmoides,Natural Rock,Bays/Pockets,3.5,0-5,Day2,392
+micropterus_salmoides,Natural Rock,Lower Section Main Lake,2.9375,0-5,Day2,393
+micropterus_punctulatus,Not Available/Other,Creeks,2.625,0-5,Day2,394
+micropterus_salmoides,Rip Rap,Creeks,2.375,0-5,Day2,395
+micropterus_salmoides,Natural Rock,Bays/Pockets,2.0625,0-5,Day2,396
+micropterus_salmoides,Boat Docks,Bays/Pockets,2.3125,0-5,Day2,397
+micropterus_salmoides,Natural Rock,Bays/Pockets,2.6875,5-10,Day2,398
+micropterus_salmoides,Boat Docks,Creeks,3.5,0-5,Day2,399
+micropterus_salmoides,Boat Docks,Bays/Pockets,2.0625,0-5,Day2,400
+micropterus_salmoides,Boat Docks,Bays/Pockets,2.0,0-5,Day2,401
+micropterus_salmoides,Boat Docks,Bays/Pockets,2.0,0-5,Day2,402
+micropterus_salmoides,Boat Docks,Bays/Pockets,2.4375,5-10,Day2,403
+micropterus_salmoides,Natural Rock,Creeks,3.1875,0-5,Day2,404
+micropterus_salmoides,Natural Rock,Bays/Pockets,2.0625,0-5,Day2,405
+micropterus_salmoides,Natural Rock,Bays/Pockets,2.5625,0-5,Day2,406
+micropterus_punctulatus,Boat Docks,Upper Section Main Lake,2.8125,0-5,Day2,407
+micropterus_salmoides,Natural Rock,Upper Section Main Lake,2.1875,5-10,Day2,408
+micropterus_salmoides,Not Available/Other,Creeks,2.0,0-5,Day2,409
+micropterus_salmoides,Boat Docks,River,2.0,5-10,Day2,410
+micropterus_salmoides,Natural Rock,Bays/Pockets,4.25,0-5,Day2,411
+micropterus_salmoides,Not Available/Other,Creeks,2.5,0-5,Day2,412
+micropterus_salmoides,Boat Docks,Bays/Pockets,2.5625,5-10,Day2,413
+micropterus_salmoides,Natural Rock,Lower Section Main Lake,3.9375,0-5,Day2,414
+micropterus_salmoides,Bluff Walls,Upper Section Main Lake,3.625,5-10,Day2,415
+micropterus_salmoides,Marinas,Bays/Pockets,2.25,0-5,Day2,416
+micropterus_salmoides,Natural Rock,Bays/Pockets,5.0,0-5,Day2,417
+micropterus_salmoides,Bluff Walls,Upper Section Main Lake,4.1875,5-10,Day2,418
+micropterus_salmoides,Natural Rock,Creeks,2.8125,0-5,Day2,419
+micropterus_salmoides,Natural Rock,Bays/Pockets,3.0625,0-5,Day2,420
+micropterus_salmoides,Boat Docks,Bays/Pockets,3.6875,0-5,Day2,421
+micropterus_salmoides,Boat Docks,Bays/Pockets,2.125,5-10,Day2,422
+micropterus_salmoides,Natural Rock,Bays/Pockets,4.625,0-5,Day2,423
+micropterus_salmoides,Boat Docks,Bays/Pockets,2.0625,0-5,Day2,424
+micropterus_salmoides,Natural Rock,Bays/Pockets,2.0625,0-5,Day2,425
+micropterus_punctulatus,Natural Rock,Bays/Pockets,2.125,0-5,Day3,426
+micropterus_salmoides,Boat Docks,Bays/Pockets,2.125,0-5,Day3,427
+micropterus_salmoides,Natural Rock,Bays/Pockets,2.0,0-5,Day3,428
+micropterus_salmoides,Boat Docks,Lower Section Main Lake,2.75,5-10,Day3,429
+micropterus_salmoides,Natural Rock,Bays/Pockets,2.3125,5-10,Day3,430
+micropterus_salmoides,Boat Docks,Mid Section Main Lake,2.125,5-10,Day3,431
+micropterus_salmoides,Natural Rock,Bays/Pockets,2.5,0-5,Day3,432
+micropterus_salmoides,Natural Rock,Bays/Pockets,2.75,5-10,Day3,433
+micropterus_salmoides,Boat Docks,Lower Section Main Lake,3.75,5-10,Day3,434
+micropterus_salmoides,Natural Rock,Mid Section Main Lake,4.0,0-5,Day3,435
+micropterus_salmoides,Brush Pile,River,4.375,0-5,Day3,436
+micropterus_salmoides,Brush Pile,Bays/Pockets,2.125,0-5,Day3,437
+micropterus_salmoides,Natural Rock,Bays/Pockets,2.125,0-5,Day3,438
+micropterus_salmoides,Natural Rock,Bays/Pockets,2.0,0-5,Day3,439
+micropterus_salmoides,Boat Docks,Bays/Pockets,3.4375,5-10,Day3,440
+micropterus_salmoides,Natural Rock,Bays/Pockets,3.75,5-10,Day3,441
+micropterus_salmoides,Boat Docks,Creeks,2.25,0-5,Day3,442
+micropterus_salmoides,Boat Docks,Bays/Pockets,2.9375,0-5,Day3,443
+micropterus_salmoides,Boat Docks,Mid Section Main Lake,3.1875,5-10,Day3,444
+micropterus_salmoides,Brush Pile,Bays/Pockets,3.8125,0-5,Day3,445
+micropterus_salmoides,Natural Rock,Mid Section Main Lake,4.25,10-15,Day3,446
+micropterus_salmoides,Natural Rock,Mid Section Main Lake,2.0,0-5,Day3,447
+micropterus_salmoides,Natural Rock,Bays/Pockets,2.875,0-5,Day3,448
+micropterus_salmoides,Natural Rock,Bays/Pockets,5.1875,0-5,Day3,449
+micropterus_salmoides,Natural Rock,Bays/Pockets,2.125,0-5,Day3,450
+micropterus_salmoides,Boat Docks,Bays/Pockets,3.875,0-5,Day3,451
+micropterus_salmoides,Lay Downs,Upper Section Main Lake,2.4375,0-5,Day3,452
+micropterus_salmoides,Natural Rock,Bays/Pockets,4.0,5-10,Day3,453
+micropterus_salmoides,Boat Docks,Mid Section Main Lake,2.0625,5-10,Day3,454
+micropterus_salmoides,Boat Docks,Creeks,3.875,0-5,Day3,455
+micropterus_salmoides,Natural Rock,Bays/Pockets,2.625,0-5,Day3,456
+micropterus_salmoides,Boat Docks,Mid Section Main Lake,3.5625,5-10,Day3,457
+micropterus_salmoides,Boat Docks,Creeks,2.375,0-5,Day3,458
+micropterus_salmoides,Natural Rock,Bays/Pockets,2.0625,0-5,Day3,459
+micropterus_salmoides,Natural Rock,Bays/Pockets,2.25,0-5,Day3,460
+micropterus_salmoides,Rip Rap,Bays/Pockets,2.3125,0-5,Day3,461
+micropterus_salmoides,Natural Rock,Bays/Pockets,4.25,0-5,Day3,462
+micropterus_salmoides,Natural Rock,Bays/Pockets,4.75,5-10,Day3,463
+micropterus_salmoides,Boat Docks,Creeks,3.0,0-5,Day3,464
+micropterus_salmoides,Natural Rock,Bays/Pockets,2.0,0-5,Day3,465
+micropterus_salmoides,Lay Downs,River,2.3125,0-5,Day3,466
+micropterus_salmoides,Marinas,Mid Section Main Lake,3.0625,0-5,Day3,467
+micropterus_salmoides,Boat Docks,Bays/Pockets,4.0625,0-5,Day3,468
+micropterus_salmoides,Natural Rock,Lower Section Main Lake,2.1875,0-5,Day3,469
+micropterus_salmoides,Buck Brush,River,2.125,0-5,Day3,470
+micropterus_salmoides,Natural Rock,Bays/Pockets,2.9375,5-10,Day3,471
+micropterus_salmoides,Marinas,Mid Section Main Lake,4.5,0-5,Day3,472
+micropterus_salmoides,Natural Rock,Bays/Pockets,2.375,0-5,Day3,473
+micropterus_salmoides,Rip Rap,Bays/Pockets,2.0,0-5,Day3,474
+micropterus_salmoides,Natural Rock,Bays/Pockets,4.4375,0-5,Day3,475
+micropterus_salmoides,Natural Rock,Bays/Pockets,2.0,0-5,Day3,476
+micropterus_salmoides,Boat Docks,Bays/Pockets,2.0625,5-10,Day3,477
+micropterus_salmoides,Natural Rock,Bays/Pockets,2.0625,0-5,Day3,478
+micropterus_salmoides,Natural Rock,Bays/Pockets,2.0625,0-5,Day3,479
+micropterus_salmoides,Boat Docks,Bays/Pockets,2.125,0-5,Day3,480
+micropterus_salmoides,Lay Downs,Creeks,4.8125,0-5,Day3,481
+micropterus_salmoides,Natural Rock,River,5.25,0-5,Day3,482
+micropterus_salmoides,Marinas,Mid Section Main Lake,5.375,0-5,Day3,483
+micropterus_salmoides,Natural Rock,Bays/Pockets,2.6875,0-5,Day3,484
+micropterus_salmoides,Boat Docks,Creeks,2.0625,0-5,Day3,485
+micropterus_salmoides,Natural Rock,Bays/Pockets,2.5,0-5,Day3,486
+micropterus_salmoides,Natural Rock,Bays/Pockets,3.4375,0-5,Day3,487
+micropterus_salmoides,Natural Rock,Bays/Pockets,2.5625,0-5,Day3,488
+micropterus_salmoides,Natural Rock,Mid Section Main Lake,3.5,0-5,Day3,489
+micropterus_punctulatus,Point,Bays/Pockets,2.6875,10-15,Day3,490
+micropterus_salmoides,Bluff Walls,Bays/Pockets,4.625,0-5,Day3,491
+micropterus_salmoides,Boat Docks,Lower Section Main Lake,2.0625,5-10,Day3,492
+micropterus_salmoides,Natural Rock,Creeks,2.0,0-5,Day3,493
+micropterus_salmoides,Natural Rock,Creeks,2.375,0-5,Day3,494
+micropterus_salmoides,Boat Docks,Bays/Pockets,3.625,0-5,Day3,495
+micropterus_salmoides,Brush Pile,Bays/Pockets,4.5,0-5,Day3,496
+micropterus_salmoides,Boat Docks,Mid Section Main Lake,2.125,5-10,Day3,497
+micropterus_salmoides,Natural Rock,Bays/Pockets,2.625,0-5,Day3,498
+micropterus_salmoides,Rip Rap,Bays/Pockets,2.0625,0-5,Day3,499
+micropterus_salmoides,Boat Docks,Bays/Pockets,2.375,0-5,Day3,500
+micropterus_salmoides,Boat Docks,Bays/Pockets,3.0,0-5,Day3,501
+micropterus_salmoides,Natural Rock,Bays/Pockets,3.1875,0-5,Day3,502
+micropterus_salmoides,Natural Rock,Bays/Pockets,2.0,0-5,Day3,503
+micropterus_salmoides,Rip Rap,Bays/Pockets,2.0625,0-5,Day3,504
+micropterus_salmoides,Boat Docks,Creeks,2.25,0-5,Day3,505
+micropterus_salmoides,Natural Rock,Mid Section Main Lake,2.0,0-5,Day3,506
+micropterus_salmoides,Boat Docks,Mid Section Main Lake,2.1875,5-10,Day3,507
+micropterus_salmoides,Natural Rock,Bays/Pockets,3.75,0-5,Day3,508
+micropterus_salmoides,Brush Pile,Bays/Pockets,3.4375,0-5,Day3,509
+micropterus_salmoides,Boat Docks,Bays/Pockets,2.625,0-5,Day3,510
+micropterus_salmoides,Boat Docks,Mid Section Main Lake,2.5,5-10,Day3,511
+micropterus_salmoides,Natural Rock,Creeks,2.4375,0-5,Day3,512
+micropterus_salmoides,Natural Rock,Bays/Pockets,3.9375,0-5,Day3,513
+micropterus_salmoides,Rip Rap,River,3.625,0-5,Day3,514
+micropterus_salmoides,Natural Rock,River,2.125,0-5,Day3,515
+micropterus_salmoides,Natural Rock,Bays/Pockets,2.8125,0-5,Day3,516
+micropterus_salmoides,Boat Docks,Bays/Pockets,2.5,0-5,Day3,517
+micropterus_salmoides,Natural Rock,Creeks,4.6875,0-5,Day3,518
+micropterus_salmoides,Point,Bays/Pockets,2.125,10-15,Day3,519
+micropterus_salmoides,Natural Rock,Bays/Pockets,2.625,0-5,Day3,520
+micropterus_salmoides,Natural Rock,Bays/Pockets,3.125,0-5,Day3,521
+micropterus_salmoides,Boat Docks,Bays/Pockets,2.875,0-5,Day3,522
+micropterus_salmoides,Natural Rock,Bays/Pockets,2.1875,0-5,Day3,523
+micropterus_salmoides,Rip Rap,Bays/Pockets,2.75,0-5,Day3,524
+micropterus_punctulatus,Boat Docks,Creeks,2.0,0-5,Day3,525
+micropterus_salmoides,Natural Rock,River,2.0,0-5,Day3,526
+micropterus_salmoides,Rip Rap,Bays/Pockets,3.375,0-5,Day3,527
+micropterus_salmoides,Rip Rap,Bays/Pockets,2.0,0-5,Day3,528
+micropterus_salmoides,Boat Docks,Creeks,2.75,0-5,Day3,529
+micropterus_salmoides,Boat Docks,Creeks,2.0,0-5,Day3,530
+micropterus_salmoides,Natural Rock,Bays/Pockets,3.875,0-5,Day3,531
+micropterus_salmoides,Boat Docks,Creeks,3.375,0-5,Day3,532
+micropterus_salmoides,Boat Docks,Mid Section Main Lake,2.6875,5-10,Day3,533
+micropterus_punctulatus,Natural Rock,Bays/Pockets,3.1875,0-5,Day3,534
+micropterus_salmoides,Rip Rap,Bays/Pockets,3.25,0-5,Day3,535
+micropterus_salmoides,Natural Rock,Bays/Pockets,3.125,0-5,Day3,536
+micropterus_salmoides,Natural Rock,Creeks,2.0,0-5,Day3,537
+micropterus_salmoides,Natural Rock,Mid Section Main Lake,2.25,10-15,Day3,538
+micropterus_salmoides,Boat Docks,Bays/Pockets,3.0,0-5,Day3,539
+micropterus_salmoides,Boat Docks,Lower Section Main Lake,2.5,5-10,Day3,540
+micropterus_salmoides,Natural Rock,River,2.0,0-5,Day3,541
+micropterus_salmoides,Natural Rock,River,2.4375,0-5,Day3,542
+micropterus_salmoides,Boat Docks,Bays/Pockets,2.0625,0-5,Day3,543
+micropterus_salmoides,Natural Rock,Mid Section Main Lake,3.875,10-15,Day3,544
+micropterus_punctulatus,Boat Docks,Bays/Pockets,2.4375,0-5,Day3,545
+micropterus_salmoides,Boat Docks,Lower Section Main Lake,4.625,0-5,Day3,546
+micropterus_salmoides,Boat Docks,Bays/Pockets,2.1875,0-5,Day3,547
+micropterus_salmoides,Natural Rock,Bays/Pockets,4.5625,0-5,Day3,548
+micropterus_salmoides,Boat Docks,Mid Section Main Lake,3.4375,5-10,Day3,549
+micropterus_salmoides,Natural Rock,Mid Section Main Lake,4.5625,0-5,Day3,550
+micropterus_salmoides,Natural Rock,River,5.1875,0-5,Day3,551
+micropterus_salmoides,Boat Docks,Lower Section Main Lake,2.625,5-10,Day3,552
+micropterus_salmoides,Natural Rock,Bays/Pockets,2.25,0-5,Day3,553
+micropterus_salmoides,Lay Downs,Upper Section Main Lake,2.0625,0-5,Day3,554
+micropterus_salmoides,Rip Rap,Bays/Pockets,4.8125,0-5,Day3,555
+micropterus_salmoides,Natural Rock,Bays/Pockets,2.125,0-5,Day3,556
+micropterus_punctulatus,Natural Rock,Bays/Pockets,2.125,0-5,Day3,557
+micropterus_salmoides,Natural Rock,Creeks,2.75,0-5,Day3,558
+micropterus_salmoides,Boat Docks,Bays/Pockets,2.375,0-5,Day3,559
+micropterus_salmoides,Rip Rap,Bays/Pockets,2.0625,0-5,Day3,560
+micropterus_salmoides,Boat Docks,Lower Section Main Lake,4.9375,5-10,Day3,561
+micropterus_salmoides,Natural Rock,Bays/Pockets,3.75,0-5,Day3,562
+micropterus_salmoides,Natural Rock,Creeks,3.0625,0-5,Day3,563
+micropterus_salmoides,Rip Rap,Bays/Pockets,5.0625,0-5,Day3,564
+micropterus_salmoides,Natural Rock,Bays/Pockets,2.125,0-5,Day3,565
+micropterus_salmoides,Natural Rock,Bays/Pockets,6.0625,0-5,Day3,566
+micropterus_salmoides,Boat Docks,Bays/Pockets,3.125,0-5,Day3,567
+micropterus_salmoides,Boat Docks,Mid Section Main Lake,2.9375,5-10,Day3,568
+micropterus_salmoides,Natural Rock,Mid Section Main Lake,3.5,0-5,Day3,569
+micropterus_salmoides,Brush Pile,Bays/Pockets,2.625,0-5,Day3,570
+micropterus_salmoides,Natural Rock,Lower Section Main Lake,3.625,0-5,Day3,571
+micropterus_salmoides,Rip Rap,Bays/Pockets,2.25,0-5,Day3,572
+micropterus_punctulatus,Boat Docks,Lower Section Main Lake,2.6875,0-5,Day3,573
+micropterus_salmoides,Rip Rap,River,4.1875,0-5,Day3,574
+micropterus_punctulatus,Natural Rock,River,2.125,10-15,Day3,575
+micropterus_salmoides,Boat Docks,Mid Section Main Lake,2.125,5-10,Day3,576
+micropterus_salmoides,Point,Bays/Pockets,2.3125,10-15,Day3,577
+micropterus_salmoides,Natural Rock,Creeks,2.25,0-5,Day3,578
+micropterus_salmoides,Boat Docks,Bays/Pockets,2.4375,0-5,Day3,579
+micropterus_salmoides,Natural Rock,Lower Section Main Lake,2.9375,0-5,Day3,580
+micropterus_salmoides,Rip Rap,River,2.0,0-5,Day3,581
+micropterus_salmoides,Rip Rap,Bays/Pockets,3.6875,0-5,Day3,582
+micropterus_salmoides,Boat Docks,Mid Section Main Lake,2.8125,5-10,Day3,583
+micropterus_salmoides,Natural Rock,Mid Section Main Lake,3.5,0-5,Day3,584
+micropterus_salmoides,Natural Rock,Bays/Pockets,2.125,0-5,Day3,585
+micropterus_salmoides,Rip Rap,River,4.3125,0-5,Day3,586
+micropterus_salmoides,Lay Downs,Upper Section Main Lake,2.8125,0-5,Day3,587
+micropterus_salmoides,Natural Rock,Bays/Pockets,3.5625,0-5,Day3,588
+micropterus_salmoides,Boat Docks,Bays/Pockets,3.5625,5-10,Day3,589
+micropterus_salmoides,Rip Rap,Bays/Pockets,2.375,0-5,Day3,590
+micropterus_salmoides,Boat Docks,Mid Section Main Lake,2.4375,5-10,Day3,591
+micropterus_salmoides,Natural Rock,Creeks,2.625,0-5,Day3,592
+micropterus_salmoides,Rip Rap,Bays/Pockets,3.1875,0-5,Day3,593
+micropterus_salmoides,Rip Rap,Bays/Pockets,2.5625,0-5,Day3,594
+micropterus_salmoides,Rip Rap,Bays/Pockets,5.125,0-5,Day3,595
+micropterus_salmoides,Natural Rock,Bays/Pockets,2.125,0-5,Day3,596
+micropterus_salmoides,Natural Rock,Mid Section Main Lake,3.5,0-5,Day3,597
+micropterus_salmoides,Natural Rock,Bays/Pockets,3.125,0-5,Day3,598
+micropterus_salmoides,Boat Docks,Lower Section Main Lake,2.75,5-10,Day3,599
+micropterus_salmoides,Natural Rock,Bays/Pockets,4.5625,0-5,Day3,600
+micropterus_salmoides,Natural Rock,River,3.0,0-5,Day3,601
+micropterus_salmoides,Boat Docks,Bays/Pockets,2.0,0-5,Day3,602
+micropterus_salmoides,Natural Rock,Bays/Pockets,2.625,0-5,Day3,603
+micropterus_salmoides,Boat Docks,Lower Section Main Lake,3.6875,5-10,Day3,604
+micropterus_salmoides,Boat Docks,Lower Section Main Lake,2.5625,0-5,Day3,605
+micropterus_salmoides,Natural Rock,Mid Section Main Lake,2.375,0-5,Day3,606
+micropterus_salmoides,Natural Rock,River,2.0625,0-5,Day3,607
+micropterus_salmoides,Boat Docks,Mid Section Main Lake,2.375,5-10,Day3,608
+micropterus_salmoides,Natural Rock,River,3.0625,0-5,Day3,609
+micropterus_salmoides,Natural Rock,Bays/Pockets,2.5625,0-5,Day3,610
+micropterus_salmoides,Natural Rock,Mid Section Main Lake,3.125,0-5,Day3,611
+micropterus_salmoides,Point,River,2.25,10-15,Day3,612
+micropterus_salmoides,Natural Rock,Bays/Pockets,2.0,0-5,Day3,613
+micropterus_salmoides,Natural Rock,Bays/Pockets,2.0625,0-5,Day3,614
+micropterus_salmoides,Boat Docks,Lower Section Main Lake,2.125,0-5,Day3,615
+micropterus_salmoides,Natural Rock,Bays/Pockets,2.5625,0-5,Day3,616
+micropterus_salmoides,Rip Rap,Bays/Pockets,2.0,0-5,Day3,617
+micropterus_salmoides,Natural Rock,Bays/Pockets,2.0,0-5,Day3,618
+micropterus_salmoides,Boat Docks,Lower Section Main Lake,2.0,0-5,Day3,619
+micropterus_salmoides,Boat Docks,Lower Section Main Lake,2.125,0-5,Day3,620
+micropterus_salmoides,Natural Rock,Bays/Pockets,3.375,0-5,Day3,621
+micropterus_salmoides,Natural Rock,Bays/Pockets,2.1875,0-5,Day3,622
+micropterus_salmoides,Rip Rap,Bays/Pockets,2.0,0-5,Day3,623
+micropterus_salmoides,Boat Docks,Creeks,2.0,0-5,Day3,624
+micropterus_salmoides,Natural Rock,River,2.25,0-5,Day3,625
+micropterus_salmoides,Boat Docks,Bays/Pockets,3.6875,0-5,Day3,626
+micropterus_salmoides,Boat Docks,Lower Section Main Lake,3.375,0-5,Day3,627
+micropterus_salmoides,Natural Rock,River,2.0,0-5,Day3,628
+micropterus_salmoides,Natural Rock,Bays/Pockets,2.5,5-10,Day3,629
+micropterus_salmoides,Rip Rap,Bays/Pockets,2.0,0-5,Day3,630
+micropterus_salmoides,Boat Docks,Bays/Pockets,2.0,0-5,Day3,631
+micropterus_salmoides,Point,Bays/Pockets,2.625,10-15,Day3,632
+micropterus_salmoides,Boat Docks,Mid Section Main Lake,2.6875,5-10,Day3,633
+micropterus_salmoides,Boat Docks,Bays/Pockets,2.6875,0-5,Day3,634
+micropterus_salmoides,Natural Rock,Bays/Pockets,3.375,0-5,Day3,635
+micropterus_salmoides,Boat Docks,Upper Section Main Lake,3.5,0-5,Day3,636
+micropterus_salmoides,Natural Rock,Bays/Pockets,3.5625,0-5,Day3,637
+micropterus_salmoides,Boat Docks,Mid Section Main Lake,2.125,5-10,Day3,638
+micropterus_salmoides,Natural Rock,River,3.5625,0-5,Day3,639
+micropterus_punctulatus,Natural Rock,Bays/Pockets,2.75,0-5,Day3,640
+micropterus_salmoides,Natural Rock,Bays/Pockets,3.6875,0-5,Day3,641
+micropterus_salmoides,Boat Docks,Lower Section Main Lake,3.5625,0-5,Day3,642
+micropterus_salmoides,Boat Docks,Upper Section Main Lake,2.9375,0-5,Day3,643
+micropterus_salmoides,Marinas,Mid Section Main Lake,2.0625,0-5,Day3,644
+micropterus_salmoides,Rip Rap,Creeks,2.25,0-5,Day3,645
+micropterus_salmoides,Bluff Walls,Bays/Pockets,3.25,0-5,Day3,646
+micropterus_salmoides,Boat Docks,Bays/Pockets,4.375,5-10,Day3,647
+micropterus_salmoides,Natural Rock,Bays/Pockets,5.125,5-10,Day3,648
+micropterus_salmoides,Lay Downs,Upper Section Main Lake,4.0,0-5,Day3,649
+micropterus_salmoides,Rip Rap,Bays/Pockets,3.5625,0-5,Day3,650
+micropterus_salmoides,Point,Bays/Pockets,2.375,5-10,Day3,651
+micropterus_salmoides,Boat Docks,Bays/Pockets,3.625,0-5,Day3,652
+micropterus_salmoides,Boat Docks,Creeks,2.25,0-5,Day3,653
+micropterus_salmoides,Rip Rap,Creeks,2.0,0-5,Day3,654
+micropterus_salmoides,Natural Rock,Bays/Pockets,2.3125,0-5,Day4,655
+micropterus_salmoides,Boat Docks,Bays/Pockets,3.0,0-5,Day4,656
+micropterus_salmoides,Natural Rock,Mid Section Main Lake,2.1875,5-10,Day4,657
+micropterus_salmoides,Sea Wall/Retaining Wall,Creeks,3.0,0-5,Day4,658
+micropterus_salmoides,Natural Rock,Creeks,2.0625,5-10,Day4,659
+micropterus_salmoides,Natural Rock,Bays/Pockets,2.5625,0-5,Day4,660
+micropterus_salmoides,Individual Boat Ramp,Bays/Pockets,2.0625,0-5,Day4,661
+micropterus_salmoides,Boat Docks,Bays/Pockets,5.3125,5-10,Day4,662
+micropterus_salmoides,Boat Docks,Creeks,2.75,0-5,Day4,663
+micropterus_salmoides,Natural Rock,River,4.0,5-10,Day4,664
+micropterus_salmoides,Natural Rock,Mid Section Main Lake,2.125,0-5,Day4,665
+micropterus_salmoides,Boat Docks,Creeks,2.25,5-10,Day4,666
+micropterus_salmoides,Point,Upper Section Main Lake,5.3125,5-10,Day4,667
+micropterus_salmoides,Natural Rock,Bays/Pockets,2.3125,0-5,Day4,668
+micropterus_salmoides,Natural Rock,Bays/Pockets,2.1875,0-5,Day4,669
+micropterus_punctulatus,Boat Docks,Bays/Pockets,2.625,5-10,Day4,670
+micropterus_salmoides,Natural Rock,Creeks,2.375,5-10,Day4,671
+micropterus_salmoides,Natural Rock,Bays/Pockets,3.125,0-5,Day4,672
+micropterus_salmoides,Natural Rock,Bays/Pockets,2.3125,0-5,Day4,673
+micropterus_salmoides,Natural Rock,Mid Section Main Lake,3.25,0-5,Day4,674
+micropterus_salmoides,Natural Rock,Mid Section Main Lake,5.0,5-10,Day4,675
+micropterus_salmoides,Natural Rock,Creeks,2.4375,0-5,Day4,676
+micropterus_salmoides,Sea Wall/Retaining Wall,Creeks,4.0625,0-5,Day4,677
+micropterus_salmoides,Boat Docks,Bays/Pockets,2.1875,0-5,Day4,678
+micropterus_salmoides,Natural Rock,Bays/Pockets,2.125,5-10,Day4,679
+micropterus_salmoides,Natural Rock,Bays/Pockets,3.6875,0-5,Day4,680
+micropterus_salmoides,Natural Rock,River,4.0625,5-10,Day4,681
+micropterus_salmoides,Natural Rock,River,2.125,0-5,Day4,682
+micropterus_salmoides,Natural Rock,Bays/Pockets,3.0625,0-5,Day4,683
+micropterus_salmoides,Marinas,Mid Section Main Lake,2.5,0-5,Day4,684
+micropterus_salmoides,Boat Docks,Bays/Pockets,2.375,0-5,Day4,685
+micropterus_salmoides,Rip Rap,Bays/Pockets,2.0,0-5,Day4,686
+micropterus_salmoides,Boat Docks,Bays/Pockets,2.6875,0-5,Day4,687
+micropterus_punctulatus,Natural Rock,Bays/Pockets,2.125,0-5,Day4,688
+micropterus_salmoides,Natural Rock,River,2.0,5-10,Day4,689
+micropterus_salmoides,Natural Rock,Bays/Pockets,2.1875,0-5,Day4,690
+micropterus_salmoides,Natural Rock,River,2.5,5-10,Day4,691
+micropterus_salmoides,Individual Boat Ramp,Bays/Pockets,2.5625,0-5,Day4,692
+micropterus_salmoides,Boat Docks,Bays/Pockets,2.25,10-15,Day4,693
+micropterus_salmoides,Natural Rock,Creeks,4.5,0-5,Day4,694
+micropterus_salmoides,Boat Docks,Creeks,2.4375,0-5,Day4,695
+micropterus_salmoides,Rip Rap,Bays/Pockets,2.125,0-5,Day4,696
+micropterus_salmoides,Boat Docks,Upper Section Main Lake,2.625,5-10,Day4,697
+micropterus_salmoides,Natural Rock,Creeks,3.9375,5-10,Day4,698
+micropterus_salmoides,Natural Rock,Bays/Pockets,3.1875,0-5,Day4,699
+micropterus_salmoides,Marinas,Mid Section Main Lake,3.625,0-5,Day4,700
+micropterus_salmoides,Boat Docks,Bays/Pockets,2.75,0-5,Day4,701
+micropterus_salmoides,Boat Docks,Creeks,2.1875,0-5,Day4,702
+micropterus_salmoides,Natural Rock,Bays/Pockets,4.3125,0-5,Day4,703
+micropterus_salmoides,Boat Docks,Creeks,3.0,5-10,Day4,704
+micropterus_salmoides,Natural Rock,Creeks,2.5625,0-5,Day4,705
+micropterus_salmoides,Rip Rap,Bays/Pockets,2.625,0-5,Day4,706
+micropterus_salmoides,Natural Rock,Creeks,2.6875,5-10,Day4,707
+micropterus_salmoides,Rip Rap,Mid Section Main Lake,2.8125,0-5,Day4,708
+micropterus_salmoides,Natural Rock,Creeks,2.5625,5-10,Day4,709
+micropterus_salmoides,Natural Rock,Bays/Pockets,2.0,5-10,Day4,710
+micropterus_salmoides,Natural Rock,Bays/Pockets,4.1875,0-5,Day4,711
+micropterus_salmoides,Natural Rock,Mid Section Main Lake,3.25,0-5,Day4,712
+micropterus_salmoides,Boat Docks,Bays/Pockets,2.8125,5-10,Day4,713
+micropterus_salmoides,Natural Rock,Creeks,2.875,0-5,Day4,714
+micropterus_salmoides,Boat Docks,Upper Section Main Lake,3.8125,5-10,Day4,715
+micropterus_salmoides,Buck Brush,Bays/Pockets,2.0,0-5,Day4,716
+micropterus_salmoides,Boat Docks,Creeks,2.75,0-5,Day4,717
+micropterus_salmoides,Natural Rock,Bays/Pockets,4.1875,0-5,Day4,718
+micropterus_salmoides,Boat Docks,Creeks,5.625,0-5,Day4,719
+micropterus_salmoides,Lay Downs,Bays/Pockets,2.6875,0-5,Day4,720
+micropterus_salmoides,Marinas,Mid Section Main Lake,5.375,0-5,Day4,721
+micropterus_salmoides,Boat Docks,Bays/Pockets,2.625,0-5,Day4,722
+micropterus_salmoides,Marinas,Mid Section Main Lake,2.25,0-5,Day4,723
+micropterus_salmoides,Marinas,Mid Section Main Lake,2.0,0-5,Day4,724
+micropterus_salmoides,Boat Docks,Bays/Pockets,3.1875,0-5,Day4,725
+micropterus_salmoides,Marinas,Mid Section Main Lake,2.125,0-5,Day4,726
+micropterus_salmoides,Boat Docks,Bays/Pockets,4.0625,0-5,Day4,727
+micropterus_salmoides,Natural Rock,Bays/Pockets,2.0625,0-5,Day4,728
+micropterus_salmoides,Natural Rock,Mid Section Main Lake,2.0,0-5,Day4,729
+micropterus_salmoides,Natural Rock,River,3.5625,5-10,Day4,730
+micropterus_salmoides,Boat Docks,Bays/Pockets,3.5625,0-5,Day4,731
+micropterus_salmoides,Boat Docks,Creeks,2.4375,0-5,Day4,732
+micropterus_salmoides,Natural Rock,River,2.1875,0-5,Day4,733
+micropterus_salmoides,Rip Rap,Bays/Pockets,2.3125,0-5,Day4,734
+micropterus_salmoides,Rip Rap,Mid Section Main Lake,2.125,0-5,Day4,735
+micropterus_salmoides,Natural Rock,River,5.25,5-10,Day4,736
+micropterus_salmoides,Marinas,Mid Section Main Lake,2.5,0-5,Day4,737
+micropterus_punctulatus,Natural Rock,River,2.0625,0-5,Day4,738
+micropterus_salmoides,Boat Docks,Upper Section Main Lake,2.5625,5-10,Day4,739
+micropterus_punctulatus,Rip Rap,Bays/Pockets,2.25,0-5,Day4,740
+micropterus_punctulatus,Boat Docks,Bays/Pockets,2.8125,5-10,Day4,741
+micropterus_salmoides,Boat Docks,Bays/Pockets,2.5,0-5,Day4,742
+micropterus_salmoides,Natural Rock,Bays/Pockets,2.0,0-5,Day4,743
+micropterus_salmoides,Natural Rock,Creeks,3.25,0-5,Day4,744
+micropterus_salmoides,Natural Rock,Bays/Pockets,2.0,0-5,Day4,745
+micropterus_salmoides,Natural Rock,Creeks,2.375,0-5,Day4,746
+micropterus_salmoides,Boat Docks,Upper Section Main Lake,3.6875,0-5,Day4,747
+micropterus_salmoides,Natural Rock,Bays/Pockets,3.375,0-5,Day4,748
+micropterus_salmoides,Natural Rock,Bays/Pockets,2.125,0-5,Day4,749
+micropterus_salmoides,Natural Rock,River,2.25,0-5,Day4,750
+micropterus_salmoides,Boat Docks,Bays/Pockets,4.75,5-10,Day4,751
+micropterus_salmoides,Boat Docks,Creeks,3.125,5-10,Day4,752
+micropterus_salmoides,Boat Docks,Bays/Pockets,3.0625,5-10,Day4,753
+micropterus_salmoides,Boat Docks,Bays/Pockets,3.25,0-5,Day4,754
+micropterus_salmoides,Individual Boat Ramp,Bays/Pockets,2.375,0-5,Day4,755
+micropterus_salmoides,Natural Rock,Bays/Pockets,4.25,0-5,Day4,756
+micropterus_punctulatus,Rip Rap,Bays/Pockets,3.4375,0-5,Day4,757
+micropterus_salmoides,Boat Docks,Mid Section Main Lake,2.625,0-5,Day4,758
+micropterus_salmoides,Natural Rock,Bays/Pockets,2.6875,0-5,Day4,759
+micropterus_salmoides,Natural Rock,Bays/Pockets,3.375,0-5,Day4,760
+micropterus_salmoides,Boat Docks,Creeks,2.6875,5-10,Day4,761
+micropterus_salmoides,Natural Rock,Mid Section Main Lake,3.5625,0-5,Day4,762
+micropterus_salmoides,Boat Docks,Creeks,3.5,0-5,Day4,763
+micropterus_salmoides,Boat Docks,Creeks,3.375,5-10,Day4,764
+micropterus_salmoides,Natural Rock,River,2.75,5-10,Day4,765
+micropterus_salmoides,Marinas,Mid Section Main Lake,2.0,0-5,Day4,766
+micropterus_salmoides,Marinas,Mid Section Main Lake,2.0,0-5,Day4,767
+micropterus_salmoides,Boat Docks,Bays/Pockets,4.5,5-10,Day4,768
+micropterus_punctulatus,Rip Rap,Bays/Pockets,2.3125,0-5,Day4,769
+micropterus_salmoides,Natural Rock,Bays/Pockets,2.125,0-5,Day4,770
+micropterus_salmoides,Natural Rock,Creeks,5.5625,0-5,Day4,771
+micropterus_salmoides,Boat Docks,Upper Section Main Lake,2.3125,0-5,Day4,772
+micropterus_salmoides,Bluff Walls,Creeks,2.1875,0-5,Day4,773
+micropterus_salmoides,Natural Rock,River,2.125,0-5,Day4,774
+micropterus_salmoides,Boat Docks,Bays/Pockets,2.6875,0-5,Day4,775
+micropterus_salmoides,Boat Docks,Bays/Pockets,2.4375,0-5,Day4,776
+micropterus_salmoides,Marinas,Bays/Pockets,2.75,0-5,Day4,777
+micropterus_salmoides,Boat Docks,Creeks,2.25,5-10,Day4,778
+micropterus_salmoides,Boat Docks,Bays/Pockets,2.125,0-5,Day4,779
+micropterus_salmoides,Boat Docks,Creeks,2.6875,0-5,Day4,780
+micropterus_salmoides,Natural Rock,River,2.4375,5-10,Day4,781
+micropterus_salmoides,Natural Rock,Mid Section Main Lake,2.25,0-5,Day4,782
+micropterus_salmoides,Boat Docks,Upper Section Main Lake,2.75,5-10,Day4,783
+micropterus_salmoides,Natural Rock,Creeks,2.4375,0-5,Day4,784
+micropterus_salmoides,Boat Docks,Bays/Pockets,4.6875,5-10,Day4,785
+micropterus_salmoides,Boat Docks,Bays/Pockets,2.5,0-5,Day4,786
+micropterus_salmoides,Natural Rock,Bays/Pockets,2.4375,0-5,Day4,787
+micropterus_salmoides,Natural Rock,River,2.5625,0-5,Day4,788
+micropterus_salmoides,Natural Rock,Bays/Pockets,3.625,0-5,Day4,789
+micropterus_salmoides,Natural Rock,River,2.1875,5-10,Day4,790
+micropterus_salmoides,Natural Rock,Creeks,4.5625,0-5,Day4,791
+micropterus_salmoides,Natural Rock,Bays/Pockets,3.875,0-5,Day4,792
+micropterus_salmoides,Marinas,Mid Section Main Lake,4.0625,0-5,Day4,793
+micropterus_salmoides,Boat Docks,Mid Section Main Lake,2.9375,0-5,Day4,794
+micropterus_salmoides,Natural Rock,River,3.6875,0-5,Day4,795
+micropterus_salmoides,Natural Rock,Bays/Pockets,2.8125,5-10,Day4,796
+micropterus_salmoides,Natural Rock,Bays/Pockets,2.8125,0-5,Day4,797
+micropterus_salmoides,Boat Docks,Upper Section Main Lake,5.375,5-10,Day4,798
+micropterus_salmoides,Natural Rock,Bays/Pockets,3.75,0-5,Day4,799
+micropterus_salmoides,Natural Rock,River,2.0625,5-10,Day4,800
+micropterus_salmoides,Boat Docks,Creeks,3.125,0-5,Day4,801
+micropterus_salmoides,Boat Docks,Bays/Pockets,2.1875,0-5,Day4,802
+micropterus_salmoides,Rip Rap,Bays/Pockets,2.375,0-5,Day4,803
+micropterus_salmoides,Natural Rock,Mid Section Main Lake,2.125,0-5,Day4,804
+micropterus_salmoides,Natural Rock,Bays/Pockets,2.0,5-10,Day4,805
+micropterus_salmoides,Marinas,Mid Section Main Lake,5.0625,0-5,Day4,806
+micropterus_salmoides,Boat Docks,Creeks,5.875,0-5,Day4,807
+micropterus_salmoides,Boat Docks,Bays/Pockets,2.8125,0-5,Day4,808
+micropterus_salmoides,Marinas,Mid Section Main Lake,2.25,0-5,Day4,809
+micropterus_salmoides,Boat Docks,Creeks,2.0625,5-10,Day4,810
+micropterus_salmoides,Brush Pile,Bays/Pockets,2.25,0-5,Day4,811
+micropterus_salmoides,Natural Rock,Bays/Pockets,4.5625,0-5,Day4,812
+micropterus_salmoides,Natural Rock,Bays/Pockets,3.6875,0-5,Day4,813
+micropterus_salmoides,Natural Rock,Bays/Pockets,3.0,0-5,Day4,814
+micropterus_salmoides,Marinas,Mid Section Main Lake,2.0,0-5,Day4,815
+micropterus_salmoides,Boat Docks,Upper Section Main Lake,3.625,0-5,Day4,816
+micropterus_salmoides,Lay Downs,Bays/Pockets,4.75,0-5,Day4,817
+micropterus_salmoides,Boat Docks,Bays/Pockets,2.0,0-5,Day4,818
+micropterus_salmoides,Boat Docks,Creeks,3.875,0-5,Day4,819
+micropterus_salmoides,Boat Docks,Upper Section Main Lake,5.1875,0-5,Day4,820
+micropterus_salmoides,Natural Rock,River,2.5,0-5,Day4,821
+micropterus_salmoides,Bluff Walls,Creeks,2.4375,0-5,Day4,822
+micropterus_salmoides,Natural Rock,River,2.0625,0-5,Day4,823
+micropterus_salmoides,Natural Rock,River,2.8125,0-5,Day4,824
+micropterus_salmoides,Natural Rock,Bays/Pockets,2.5625,0-5,Day4,825
+micropterus_salmoides,Natural Rock,Bays/Pockets,2.6875,0-5,Day4,826
+micropterus_salmoides,Natural Rock,River,4.5,0-5,Day4,827
+micropterus_salmoides,Bluff Walls,Creeks,2.1875,0-5,Day4,828
+micropterus_salmoides,Natural Rock,Bays/Pockets,4.3125,0-5,Day4,829
+micropterus_salmoides,Boat Docks,Creeks,2.6875,5-10,Day4,830
+micropterus_punctulatus,Rip Rap,Bays/Pockets,2.3125,0-5,Day4,831
+micropterus_salmoides,Boat Docks,Bays/Pockets,2.4375,0-5,Day4,832
+micropterus_salmoides,Natural Rock,River,2.0,5-10,Day4,833
+micropterus_salmoides,Natural Rock,Bays/Pockets,2.0625,0-5,Day4,834
+micropterus_salmoides,Boat Docks,Bays/Pockets,2.6875,0-5,Day4,835
+micropterus_salmoides,Boat Docks,Bays/Pockets,2.6875,0-5,Day4,836
+micropterus_salmoides,Natural Rock,Bays/Pockets,2.5,0-5,Day4,837
+micropterus_salmoides,Natural Rock,Bays/Pockets,2.5625,0-5,Day4,838
+micropterus_salmoides,Boat Docks,Upper Section Main Lake,2.875,0-5,Day4,839
+micropterus_salmoides,Natural Rock,Creeks,4.0,0-5,Day4,840
+micropterus_salmoides,Boat Docks,Creeks,2.4375,5-10,Day4,841
+micropterus_salmoides,Natural Rock,Bays/Pockets,4.375,0-5,Day4,842
+micropterus_salmoides,Natural Rock,Bays/Pockets,2.125,0-5,Day4,843
+micropterus_salmoides,Boat Docks,Creeks,2.125,0-5,Day4,844
+micropterus_salmoides,Natural Rock,Bays/Pockets,2.75,0-5,Day4,845
+micropterus_salmoides,Natural Rock,Bays/Pockets,4.0,0-5,Day4,846
+micropterus_salmoides,Natural Rock,Bays/Pockets,2.1875,0-5,Day4,847
+micropterus_salmoides,Natural Rock,Creeks,5.3125,0-5,Day4,848
+micropterus_salmoides,Boat Docks,Bays/Pockets,2.0,0-5,Day4,849
+micropterus_salmoides,Natural Rock,Creeks,2.6875,0-5,Day4,850
+micropterus_salmoides,Natural Rock,Mid Section Main Lake,3.4375,0-5,Day4,851
+micropterus_salmoides,Natural Rock,Bays/Pockets,4.6875,5-10,Day4,852
+micropterus_salmoides,Marinas,Mid Section Main Lake,3.1875,0-5,Day4,853
+micropterus_salmoides,Boat Docks,Mid Section Main Lake,4.1875,0-5,Day4,854
+micropterus_salmoides,Natural Rock,Mid Section Main Lake,2.0,0-5,Day4,855
+micropterus_salmoides,Natural Rock,Bays/Pockets,2.25,5-10,Day4,856
+micropterus_salmoides,Natural Rock,Bays/Pockets,2.6875,0-5,Day4,857
+micropterus_salmoides,Natural Rock,Bays/Pockets,2.3125,0-5,Day5,858
+micropterus_salmoides,Boat Docks,Upper Section Main Lake,2.0625,0-5,Day5,859
+micropterus_punctulatus,Bluff Walls,Mid Section Main Lake,2.0,15-20,Day5,860
+micropterus_salmoides,Boat Docks,Bays/Pockets,2.3125,0-5,Day5,861
+micropterus_salmoides,Bluff Walls,Bays/Pockets,2.1875,0-5,Day5,862
+micropterus_salmoides,Boat Docks,Mid Section Main Lake,2.9375,0-5,Day5,863
+micropterus_salmoides,Natural Rock,Creeks,3.1875,0-5,Day5,864
+micropterus_salmoides,Bluff Walls,Mid Section Main Lake,4.0625,5-10,Day5,865
+micropterus_salmoides,Natural Rock,Lower Section Main Lake,2.1875,0-5,Day5,866
+micropterus_salmoides,Boat Docks,Bays/Pockets,2.5,10-15,Day5,867
+micropterus_salmoides,Boat Docks,Bays/Pockets,3.0,0-5,Day5,868
+micropterus_punctulatus,Natural Rock,Bays/Pockets,2.125,0-5,Day5,869
+micropterus_salmoides,Natural Rock,Bays/Pockets,5.25,0-5,Day5,870
+micropterus_salmoides,Bluff Walls,Bays/Pockets,2.625,5-10,Day5,871
+micropterus_salmoides,Natural Rock,River,3.6875,0-5,Day5,872
+micropterus_salmoides,Natural Rock,Bays/Pockets,3.75,0-5,Day5,873
+micropterus_salmoides,Boat Docks,Mid Section Main Lake,2.625,0-5,Day5,874
+micropterus_salmoides,Natural Rock,Lower Section Main Lake,3.25,0-5,Day5,875
+micropterus_salmoides,Boat Docks,Bays/Pockets,2.125,10-15,Day5,876
+micropterus_salmoides,Boat Docks,Bays/Pockets,2.75,5-10,Day5,877
+micropterus_salmoides,Bluff Walls,Creeks,2.875,0-5,Day5,878
+micropterus_salmoides,Boat Docks,Bays/Pockets,2.0625,0-5,Day5,879
+micropterus_salmoides,Natural Rock,Lower Section Main Lake,3.375,0-5,Day5,880
+micropterus_salmoides,Natural Rock,Bays/Pockets,3.125,0-5,Day5,881
+micropterus_salmoides,Point,River,4.1875,10-15,Day5,882
+micropterus_salmoides,Point,River,2.125,10-15,Day5,883
+micropterus_salmoides,Rip Rap,Bays/Pockets,2.625,0-5,Day5,884
+micropterus_salmoides,Lay Downs,Creeks,3.625,0-5,Day5,885
+micropterus_salmoides,Natural Rock,Bays/Pockets,4.125,0-5,Day5,886
+micropterus_salmoides,Boat Docks,Bays/Pockets,2.5625,0-5,Day5,887
+micropterus_salmoides,Natural Rock,Lower Section Main Lake,2.5,5-10,Day5,888
+micropterus_salmoides,Brush Pile,Bays/Pockets,4.1875,0-5,Day5,889
+micropterus_salmoides,Boat Docks,Bays/Pockets,4.6875,0-5,Day5,890
+micropterus_salmoides,Natural Rock,Bays/Pockets,2.0,0-5,Day5,891
+micropterus_salmoides,Natural Rock,Bays/Pockets,2.25,0-5,Day5,892
+micropterus_salmoides,Boat Docks,Mid Section Main Lake,3.75,0-5,Day5,893
+micropterus_salmoides,Boat Docks,Bays/Pockets,2.4375,0-5,Day5,894
+micropterus_salmoides,Natural Rock,Bays/Pockets,3.4375,0-5,Day5,895
+micropterus_salmoides,Natural Rock,Bays/Pockets,2.0625,0-5,Day5,896
+micropterus_salmoides,Boat Docks,Bays/Pockets,2.6875,0-5,Day5,897
+micropterus_salmoides,Boat Docks,Bays/Pockets,3.8125,0-5,Day5,898
+micropterus_salmoides,Natural Rock,Creeks,2.4375,0-5,Day5,899
+micropterus_punctulatus,Bluff Walls,Bays/Pockets,2.9375,0-5,Day5,900
+micropterus_salmoides,Boat Docks,Upper Section Main Lake,5.3125,5-10,Day5,901
+micropterus_salmoides,Boat Docks,Upper Section Main Lake,3.0,5-10,Day5,902
+micropterus_salmoides,Boat Docks,Upper Section Main Lake,3.125,0-5,Day5,903
+micropterus_salmoides,Natural Rock,Creeks,3.25,0-5,Day5,904
+micropterus_salmoides,Natural Rock,Bays/Pockets,4.5,0-5,Day5,905
+micropterus_salmoides,Boat Docks,Bays/Pockets,2.5,10-15,Day5,906
+micropterus_salmoides,Lay Downs,Creeks,2.125,0-5,Day5,907
+micropterus_salmoides,Boat Docks,Bays/Pockets,2.4375,0-5,Day5,908
+micropterus_salmoides,Boat Docks,Bays/Pockets,2.125,0-5,Day5,909
+micropterus_salmoides,Natural Rock,Bays/Pockets,2.875,0-5,Day5,910
+micropterus_salmoides,Boat Docks,Bays/Pockets,2.0,0-5,Day5,911
+micropterus_salmoides,Boat Docks,Bays/Pockets,2.625,0-5,Day5,912
+micropterus_salmoides,Boat Docks,Bays/Pockets,2.1875,0-5,Day5,913
+micropterus_salmoides,Point,Upper Section Main Lake,2.3125,5-10,Day5,914
+micropterus_salmoides,Lay Downs,Creeks,2.6875,0-5,Day5,915
+micropterus_salmoides,Boat Docks,Upper Section Main Lake,2.0,0-5,Day5,916
+micropterus_salmoides,Boat Docks,Creeks,2.4375,0-5,Day5,917
+micropterus_salmoides,Natural Rock,Bays/Pockets,4.25,0-5,Day5,918
+micropterus_salmoides,Natural Rock,Creeks,2.0,0-5,Day5,919
+micropterus_salmoides,Natural Rock,Lower Section Main Lake,5.375,5-10,Day5,920
+micropterus_salmoides,Boat Docks,Bays/Pockets,3.25,0-5,Day5,921
+micropterus_salmoides,Natural Rock,Bays/Pockets,3.0625,0-5,Day5,922
+micropterus_salmoides,Natural Rock,River,2.75,0-5,Day5,923
+micropterus_punctulatus,Bluff Walls,Bays/Pockets,2.875,0-5,Day5,924
+micropterus_salmoides,Lay Downs,Creeks,2.25,0-5,Day5,925
+micropterus_salmoides,Natural Rock,Bays/Pockets,4.1875,0-5,Day5,926
+micropterus_salmoides,Natural Rock,Bays/Pockets,3.5,0-5,Day5,927
+micropterus_salmoides,Point,River,2.0625,10-15,Day5,928
+micropterus_salmoides,Natural Rock,Creeks,2.0,0-5,Day5,929
+micropterus_salmoides,Natural Rock,Lower Section Main Lake,3.125,0-5,Day5,930
+micropterus_salmoides,Bluff Walls,Creeks,3.5,0-5,Day5,931
+micropterus_salmoides,Boat Docks,Bays/Pockets,2.3125,0-5,Day5,932
+micropterus_salmoides,Boat Docks,Bays/Pockets,3.1875,5-10,Day5,933
+micropterus_salmoides,Lay Downs,Creeks,3.75,0-5,Day5,934
+micropterus_salmoides,Natural Rock,Bays/Pockets,3.5625,0-5,Day5,935
+micropterus_salmoides,Boat Docks,Bays/Pockets,3.5,0-5,Day5,936
+micropterus_salmoides,Boat Docks,Mid Section Main Lake,2.5,0-5,Day5,937
+micropterus_salmoides,Natural Rock,Bays/Pockets,2.1875,0-5,Day5,938
+micropterus_salmoides,Boat Docks,Bays/Pockets,2.0,0-5,Day5,939
+micropterus_salmoides,Boat Docks,Bays/Pockets,2.4375,0-5,Day5,940
+micropterus_salmoides,Boat Docks,Bays/Pockets,3.0,0-5,Day5,941
+micropterus_salmoides,Marinas,Mid Section Main Lake,2.0,0-5,Day5,942
+micropterus_salmoides,Natural Rock,Bays/Pockets,3.5625,0-5,Day5,943
+micropterus_salmoides,Boat Docks,Creeks,2.1875,0-5,Day5,944
+micropterus_salmoides,Boat Docks,Bays/Pockets,2.125,5-10,Day5,945
+micropterus_salmoides,Boat Docks,Bays/Pockets,2.1875,0-5,Day5,946
+micropterus_salmoides,Lay Downs,Bays/Pockets,3.4375,0-5,Day5,947
+micropterus_salmoides,Natural Rock,Bays/Pockets,3.375,0-5,Day5,948
+micropterus_punctulatus,Boat Docks,Mid Section Main Lake,2.0625,0-5,Day5,949
+micropterus_salmoides,Marinas,Mid Section Main Lake,2.25,0-5,Day5,950
+micropterus_salmoides,Boat Docks,Mid Section Main Lake,2.125,0-5,Day5,951
+micropterus_salmoides,Natural Rock,Bays/Pockets,2.5,0-5,Day5,952
+micropterus_salmoides,Natural Rock,Lower Section Main Lake,3.1875,0-5,Day5,953
+micropterus_salmoides,Natural Rock,Creeks,3.5,0-5,Day5,954
+micropterus_salmoides,Boat Docks,Creeks,2.5,0-5,Day5,955
+micropterus_salmoides,Natural Rock,Bays/Pockets,4.1875,0-5,Day5,956
+micropterus_salmoides,Boat Docks,Bays/Pockets,2.25,0-5,Day5,957
+micropterus_salmoides,Bluff Walls,Creeks,3.5,0-5,Day5,958
+micropterus_salmoides,Natural Rock,Bays/Pockets,3.0625,0-5,Day5,959
+micropterus_salmoides,Natural Rock,Lower Section Main Lake,2.0625,5-10,Day5,960
+micropterus_salmoides,Boat Docks,Bays/Pockets,2.4375,0-5,Day5,961
+micropterus_salmoides,Lay Downs,Bays/Pockets,2.875,0-5,Day5,962
+micropterus_salmoides,Boat Docks,Bays/Pockets,5.9375,0-5,Day5,963
+micropterus_salmoides,Natural Rock,Creeks,2.375,5-10,Day5,964
+micropterus_salmoides,Lay Downs,Bays/Pockets,3.75,0-5,Day5,965
+micropterus_salmoides,Natural Rock,Lower Section Main Lake,2.0,5-10,Day5,966
+micropterus_salmoides,Boat Docks,Bays/Pockets,2.4375,0-5,Day5,967
+micropterus_salmoides,Lay Downs,Bays/Pockets,2.5,0-5,Day5,968
+micropterus_salmoides,Boat Docks,Bays/Pockets,2.625,0-5,Day5,969
+micropterus_salmoides,Natural Rock,Creeks,2.0,0-5,Day5,970
+micropterus_salmoides,Boat Docks,Bays/Pockets,2.625,5-10,Day5,971
+micropterus_salmoides,Boat Docks,Creeks,3.375,0-5,Day5,972
+micropterus_salmoides,Natural Rock,Lower Section Main Lake,2.125,0-5,Day5,973
+micropterus_salmoides,Natural Rock,Lower Section Main Lake,2.0625,5-10,Day5,974
+micropterus_punctulatus,Boat Docks,Mid Section Main Lake,2.25,0-5,Day5,975
+micropterus_salmoides,Boat Docks,Bays/Pockets,2.6875,0-5,Day5,976
+micropterus_salmoides,Natural Rock,River,3.9375,0-5,Day5,977
+micropterus_salmoides,Natural Rock,Bays/Pockets,2.6875,0-5,Day5,978
+micropterus_punctulatus,Boat Docks,Mid Section Main Lake,2.625,0-5,Day5,979
+micropterus_salmoides,Natural Rock,Bays/Pockets,2.625,0-5,Day5,980
+micropterus_salmoides,Natural Rock,Bays/Pockets,3.8125,0-5,Day5,981
+micropterus_salmoides,Boat Docks,Creeks,3.25,0-5,Day5,982
+micropterus_salmoides,Natural Rock,Creeks,2.0625,0-5,Day5,983
+micropterus_salmoides,Natural Rock,Bays/Pockets,2.125,0-5,Day5,984
+micropterus_salmoides,Boat Docks,Bays/Pockets,2.1875,5-10,Day5,985
+micropterus_salmoides,Boat Docks,Bays/Pockets,2.375,0-5,Day5,986
+micropterus_salmoides,Boat Docks,Bays/Pockets,2.5,0-5,Day5,987
+micropterus_salmoides,Natural Rock,Bays/Pockets,2.375,0-5,Day5,988
+micropterus_salmoides,Offshore,Bays/Pockets,2.125,5-10,Day5,989
+micropterus_salmoides,Boat Docks,Bays/Pockets,2.0,0-5,Day5,990
+micropterus_salmoides,Natural Rock,Lower Section Main Lake,2.25,0-5,Day5,991
+micropterus_salmoides,Natural Rock,Bays/Pockets,2.0625,0-5,Day5,992
+micropterus_salmoides,Boat Docks,Bays/Pockets,3.125,0-5,Day5,993
+micropterus_salmoides,Boat Docks,Bays/Pockets,2.4375,0-5,Day5,994
+micropterus_salmoides,Boat Docks,Bays/Pockets,5.0,10-15,Day5,995
+micropterus_punctulatus,Bluff Walls,Bays/Pockets,2.0,0-5,Day5,996
+micropterus_salmoides,Bluff Walls,Bays/Pockets,4.8125,5-10,Day5,997
+micropterus_salmoides,Point,River,2.1875,10-15,Day5,998
+micropterus_salmoides,Boat Docks,Bays/Pockets,3.0625,5-10,Day5,999
+micropterus_salmoides,Natural Rock,Creeks,3.125,0-5,Day5,1000
+micropterus_salmoides,Natural Rock,Creeks,2.0,0-5,Day5,1001
+micropterus_salmoides,Boat Docks,Bays/Pockets,2.25,0-5,Day5,1002
+micropterus_punctulatus,Natural Rock,Bays/Pockets,2.6875,0-5,Day5,1003
+micropterus_salmoides,Natural Rock,Creeks,2.0625,0-5,Day5,1004
+micropterus_salmoides,Point,River,5.625,10-15,Day5,1005
+micropterus_salmoides,Boat Docks,Mid Section Main Lake,3.9375,0-5,Day5,1006
+micropterus_salmoides,Boat Docks,Creeks,3.1875,0-5,Day5,1007
+micropterus_salmoides,Natural Rock,Creeks,4.0,0-5,Day5,1008
+micropterus_salmoides,Lay Downs,Bays/Pockets,2.0,0-5,Day5,1009
+micropterus_salmoides,Boat Docks,Bays/Pockets,2.125,0-5,Day5,1010
+micropterus_salmoides,Lay Downs,Bays/Pockets,2.4375,0-5,Day5,1011
+micropterus_salmoides,Natural Rock,Bays/Pockets,2.1875,0-5,Day5,1012
+micropterus_salmoides,Boat Docks,Bays/Pockets,2.8125,5-10,Day5,1013
+micropterus_salmoides,Boat Docks,Bays/Pockets,4.75,5-10,Day5,1014
+micropterus_salmoides,Lay Downs,Bays/Pockets,3.25,0-5,Day5,1015
+micropterus_salmoides,Natural Rock,Creeks,2.125,0-5,Day5,1016
+micropterus_salmoides,Natural Rock,Bays/Pockets,2.875,0-5,Day5,1017
+micropterus_salmoides,Natural Rock,Lower Section Main Lake,6.0625,5-10,Day5,1018
+micropterus_punctulatus,Natural Rock,Bays/Pockets,2.625,0-5,Day5,1019
+micropterus_salmoides,Boat Docks,Creeks,4.25,0-5,Day5,1020
+micropterus_salmoides,Marinas,Mid Section Main Lake,2.9375,0-5,Day5,1021
+micropterus_punctulatus,Natural Rock,Bays/Pockets,2.0,0-5,Day5,1022
+micropterus_salmoides,Natural Rock,Creeks,3.625,0-5,Day5,1023
+micropterus_salmoides,Boat Docks,Upper Section Main Lake,2.0,0-5,Day5,1024
+micropterus_punctulatus,Bluff Walls,Bays/Pockets,2.25,0-5,Day5,1025
+micropterus_salmoides,Boat Docks,Bays/Pockets,2.25,0-5,Day5,1026
+micropterus_salmoides,Natural Rock,Bays/Pockets,2.375,0-5,Day5,1027
+micropterus_salmoides,Point,River,3.3125,10-15,Day5,1028
+micropterus_salmoides,Natural Rock,Bays/Pockets,2.0625,0-5,Day5,1029
+micropterus_salmoides,Natural Rock,Bays/Pockets,3.625,0-5,Day5,1030
+micropterus_salmoides,Boat Docks,Bays/Pockets,2.0,0-5,Day5,1031
+micropterus_salmoides,Natural Rock,Bays/Pockets,2.1875,0-5,Day5,1032
+micropterus_salmoides,Marinas,Mid Section Main Lake,3.875,0-5,Day5,1033
+micropterus_salmoides,Natural Rock,Bays/Pockets,3.1875,0-5,Day5,1034
+micropterus_salmoides,Boat Docks,Bays/Pockets,2.25,0-5,Day5,1035
+micropterus_salmoides,Natural Rock,Bays/Pockets,4.375,0-5,Day5,1036
+micropterus_salmoides,Point,Upper Section Main Lake,2.375,5-10,Day5,1037
+micropterus_salmoides,Boat Docks,Bays/Pockets,2.4375,0-5,Day5,1038
+micropterus_salmoides,Boat Docks,Mid Section Main Lake,4.0,0-5,Day5,1039
+micropterus_salmoides,Boat Docks,Bays/Pockets,3.5,0-5,Day5,1040
+micropterus_salmoides,Natural Rock,Creeks,5.9375,0-5,Day5,1041
+micropterus_salmoides,Boat Docks,Bays/Pockets,3.125,0-5,Day5,1042
+micropterus_punctulatus,Natural Rock,Bays/Pockets,2.0,0-5,Day5,1043
+micropterus_punctulatus,Natural Rock,Lower Section Main Lake,2.0,0-5,Day5,1044
+micropterus_salmoides,Natural Rock,Creeks,2.1875,0-5,Day5,1045
+micropterus_salmoides,Natural Rock,Creeks,5.875,0-5,Day5,1046
+micropterus_salmoides,Boat Docks,Upper Section Main Lake,2.0,0-5,Day5,1047
+micropterus_salmoides,Point,Upper Section Main Lake,3.75,5-10,Day5,1048
+micropterus_salmoides,Boat Docks,Upper Section Main Lake,2.125,0-5,Day5,1049
+micropterus_salmoides,Natural Rock,Bays/Pockets,2.0,0-5,Day5,1050
+micropterus_salmoides,Marinas,Mid Section Main Lake,2.0,0-5,Day5,1051
+micropterus_salmoides,Bluff Walls,Bays/Pockets,2.1875,0-5,Day5,1052
+micropterus_salmoides,Boat Docks,Bays/Pockets,2.0625,0-5,Day5,1053
+micropterus_salmoides,Boat Docks,Creeks,2.3125,0-5,Day5,1054
+micropterus_salmoides,Natural Rock,Creeks,2.5,0-5,Day5,1055
+micropterus_salmoides,Boat Docks,Bays/Pockets,4.25,0-5,Day5,1056
+micropterus_salmoides,Boat Docks,Bays/Pockets,3.625,5-10,Day5,1057
+micropterus_salmoides,Boat Docks,Bays/Pockets,3.0,5-10,Day5,1058
+micropterus_salmoides,Natural Rock,Lower Section Main Lake,2.125,0-5,Day5,1059
+micropterus_salmoides,Natural Rock,Bays/Pockets,4.625,0-5,Day5,1060
+micropterus_salmoides,Marinas,Mid Section Main Lake,2.375,0-5,Day5,1061
+micropterus_salmoides,Natural Rock,Bays/Pockets,2.8125,0-5,Day5,1062
+micropterus_punctulatus,Natural Rock,Mid Section Main Lake,2.9375,0-5,Day5,1063
+micropterus_salmoides,Boat Docks,Bays/Pockets,3.0,0-5,Day5,1064
+micropterus_punctulatus,Natural Rock,Mid Section Main Lake,2.5625,0-5,Day5,1065
+micropterus_salmoides,Boat Docks,Bays/Pockets,2.625,0-5,Day5,1066
+micropterus_salmoides,Boat Docks,Bays/Pockets,2.25,5-10,Day5,1067
+micropterus_salmoides,Lay Downs,Bays/Pockets,4.125,0-5,Day5,1068
+micropterus_salmoides,Marinas,Mid Section Main Lake,3.625,0-5,Day5,1069
+micropterus_salmoides,Natural Rock,Bays/Pockets,2.125,0-5,Day5,1070
+micropterus_salmoides,Boat Docks,Bays/Pockets,3.25,0-5,Day5,1071
+micropterus_salmoides,Bluff Walls,Creeks,2.9375,0-5,Day5,1072
+micropterus_salmoides,Natural Rock,Bays/Pockets,2.8125,0-5,Day5,1073
+micropterus_salmoides,Natural Rock,Lower Section Main Lake,4.25,5-10,Day5,1074
+micropterus_salmoides,Not Available/Other,Bays/Pockets,4.1875,0-5,Day5,1075
+micropterus_salmoides,Natural Rock,Creeks,2.0625,0-5,Day5,1076
+micropterus_salmoides,Natural Rock,Creeks,2.75,0-5,Day5,1077
+micropterus_salmoides,Bluff Walls,Bays/Pockets,2.625,5-10,Day5,1078
+micropterus_punctulatus,Boat Docks,Lower Section Main Lake,2.1875,0-5,Day5,1079
+micropterus_salmoides,Point,Upper Section Main Lake,4.4375,5-10,Day5,1080
+micropterus_salmoides,Boat Docks,Bays/Pockets,2.5625,0-5,Day5,1081
+micropterus_salmoides,Boat Docks,Mid Section Main Lake,3.0,0-5,Day5,1082
+micropterus_salmoides,Boat Docks,Bays/Pockets,3.625,0-5,Day5,1083
+micropterus_salmoides,Boat Docks,Bays/Pockets,3.4375,0-5,Day5,1084
+micropterus_salmoides,Not Available/Other,Bays/Pockets,3.4375,0-5,Day5,1085
+micropterus_salmoides,Bluff Walls,Bays/Pockets,3.1875,5-10,Day5,1086
+micropterus_salmoides,Natural Rock,River,4.8125,0-5,Day5,1087
+micropterus_salmoides,Natural Rock,Upper Section Main Lake,2.625,0-5,Day5,1088
+micropterus_salmoides,Boat Docks,Creeks,3.0,0-5,Day5,1089
+micropterus_salmoides,Natural Rock,Lower Section Main Lake,2.375,0-5,Day5,1090
+micropterus_salmoides,Bluff Walls,Creeks,2.0,0-5,Day5,1091
+micropterus_salmoides,Natural Rock,Creeks,2.125,0-5,Day5,1092
+micropterus_salmoides,Natural Rock,Upper Section Main Lake,2.3125,0-5,Day5,1093
+micropterus_salmoides,Brush Pile,Bays/Pockets,3.8125,0-5,Day5,1094
+micropterus_salmoides,Boat Docks,Bays/Pockets,4.25,0-5,Day5,1095
+micropterus_salmoides,Lay Downs,Bays/Pockets,2.6875,0-5,Day5,1096
+micropterus_salmoides,Natural Rock,Bays/Pockets,2.875,0-5,Day5,1097
+micropterus_salmoides,Point,Upper Section Main Lake,5.8125,5-10,Day5,1098
